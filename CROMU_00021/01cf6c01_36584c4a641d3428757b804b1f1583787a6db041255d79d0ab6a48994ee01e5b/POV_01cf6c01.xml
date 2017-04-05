@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+    <cbid>01cf6c01_01</cbid>
+        <replay>
+         <read><length>2</length></read>
+         <write>
+            <data>%</data>
+        </write>
+         <write>
+            <data>\n</data>
+        </write>
+         <read><length>28</length></read>
+         <read><length>1</length></read>
+         <read><length>2</length></read>
+         <write>
+            <data>-</data>
+        </write>
+         <write>
+            <data>\n</data>
+        </write>
+         <read><length>27</length></read>
+         <read><length>1</length></read>
+         <read><length>2</length></read>
+         <write>
+            <data>0</data>
+        </write>
+         <write>
+            <data> </data>
+        </write>
+         <write>
+            <data>*</data>
+        </write>
+         <write>
+            <data>\n</data>
+        </write>
+         <read><length>38</length></read>
+         <read><length>1</length></read>
+         <read><length>2</length></read>
+         <write>
+            <data> </data>
+        </write>
+         <write>
+            <data>v</data>
+        </write>
+         <write>
+            <data>a</data>
+        </write>
+         <write>
+            <data>r</data>
+        </write>
+         <write>
+            <data>\n</data>
+        </write>
+<delay>500</delay></replay>
+</pov>

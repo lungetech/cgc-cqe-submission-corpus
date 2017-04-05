@@ -1,0 +1,898 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>ccf3d301_01</cbid>
+  <replay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x0a</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x40</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>J</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>4</data>
+    </write>
+    <write echo="ascii">
+      <data>\x2b</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x40</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>9</data>
+    </write>
+    <write echo="ascii">
+      <data>\x2b</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x2d</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x40</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>9</data>
+    </write>
+    <write echo="ascii">
+      <data>0</data>
+    </write>
+    <write echo="ascii">
+      <data>\x03</data>
+    </write>
+    <write echo="ascii">
+      <data>\x80</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x0a</data>
+    </write>
+    <read>
+      <length>1</length>
+    </read>
+    <delay>1500</delay>
+    <read>
+      <length>1</length>
+    </read>
+  </replay>
+</pov>

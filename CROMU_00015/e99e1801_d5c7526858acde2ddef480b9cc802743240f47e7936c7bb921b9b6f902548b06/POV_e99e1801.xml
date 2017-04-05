@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='ASCII' standalone='no'?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>e99e1801</cbid>
+  <replay>
+    <read>
+      <length>107</length>
+    </read>
+    <write>
+      <data format="hex">300080ba</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">ba9a97ba</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">babae000</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">85676750</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">67806789</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">38433876</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">675fff38</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">414c1a31</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">31494254</data>
+    </write>
+    <read>
+      <length>107</length>
+    </read>
+    <write>
+      <data format="hex">37bababa</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">baba5431</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">33008043</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">4343434343434343434343434343434343434343434331313131314e31</data>
+    </write>
+    <read>
+      <length>107</length>
+    </read>
+    <write>
+      <data format="hex">31313120</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">5f67ddef</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">efe73131</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">3131313f</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">4e313131</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">44444444</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">44444444</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">44adadad</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">ff1c0080</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">6764acad</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">adadff38</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">00806764</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">83714254</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">38676700</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">80000004</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">0000adad</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">ff1c0080</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">6764acad</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">ad00005f</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">ff380004</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">00003121</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">42543731</data>
+    </write>
+    <read>
+      <length>118</length>
+    </read>
+    <write>
+      <data format="hex">313b381c</data>
+    </write>
+    <read>
+      <length>120</length>
+    </read>
+  </replay>
+</pov>

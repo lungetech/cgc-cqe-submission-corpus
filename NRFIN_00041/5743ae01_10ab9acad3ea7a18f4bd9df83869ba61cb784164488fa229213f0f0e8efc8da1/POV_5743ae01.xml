@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='ASCII' standalone='no'?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>5743ae01</cbid>
+  <replay>
+    <write>
+      <data format="hex">2141414141412c382c322c33457069603030453d3d536356333a777075483f3d56683030303137312c302a314607</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c322c322c332c386b47637036633c413b726061754a65616264754c4c30302c302a343107</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c312c222c2c564c34343444656e4938616d77746a7330346f417030302c322a7f0007</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141ff7f00007752364147323264674032366f3a6a416051654e625274735068433830303131382c302a364307</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c322c322c342c3b64674f6877704e70ff0000003c697045323a646a3030302c302a324307</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c312c312c2c53357176577148346735344730455075317441756031502c322a363507</data>
+    </write>
+    <read>
+      <length>74</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c312c312c2c3c624e72553b6c764e403a77383033643d3c31576c5348302c302a373707</data>
+    </write>
+    <read>
+      <length>102</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c312c322c312c673030303030302c302a344307</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c312c446160364b664048753a37453a6c356c497236314571383333352c302a343007</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">49322c322c312c404c47566b4f3c36303030803030303030303030303030302c302a354607</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c312c312c2c513a6877414a373e3f5036375032676a547542333c31432c322a343007</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c312c312c2c3b7536763e53634c504f7445603032546a7036323f7764302c302a302b07</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c312c312c2c3863373b313b48573e3037446830306042383732315672402c302a343007</data>
+    </write>
+    <read>
+      <length>103</length>
+    </read>
+    <write>
+      <data format="hex">2141414141642c312c312c2c3e6a6b3c71305232775050503530343e776830306c676b402c300a363807</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c312c322c312c654c72566c66473a3a3973393c5064683035735370557464323367524741655664503030303267762c302a304107</data>
+    </write>
+    <read>
+      <length>20</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c322c322c312c6e55463262664e5065317675776563363030302c2c3d6c7135523831696b68383f4631773934483732323a69502c502a304607</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c312c322c341064434f525054774076304b643249800050313273444e32533d6d573a40666a4344103030303156602c302a373707</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c322c642c342c703a605335514235476b3749734b557030303032303030302c302a344307</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c312c322c382c644d763a4165436e544f484d7863426830334b4a436b4539303141362c302a304607</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c322c322c382c463e6270325438666d4a30303030303030303030303030302c302a313007</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">214141414141d6312c312c2c55634368343a39686c34763e3053653a3175616e6032502c322a373807</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c312c312c2c51426b5361526c4045506e71404c6dff7f33513e3430502c792a354407</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c312c322c312c64557665323e6f54733b4969757050774035543d356051615465306d7567466941496030303430762c302a303207</data>
+    </write>
+    <read>
+      <length>20</length>
+    </read>
+    <write>
+      <data format="hex">2141414141412c322c322c312c4676404f4f637062403d6c4168667a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a4b437554446c474f76302c302a374307</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+  </replay>
+</pov>

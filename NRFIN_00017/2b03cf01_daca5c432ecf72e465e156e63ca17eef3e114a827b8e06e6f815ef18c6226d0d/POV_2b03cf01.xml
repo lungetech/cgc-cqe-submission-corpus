@@ -1,0 +1,362 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>service</cbid>
+    <replay>
+<!-- unknown symb label v0_random_0 data: \x00\x00\x00\x00\x00\x00\x00\x00 -->
+
+<!-- (Read w8 0x0 v0_random_0) (Read w8 0x1 v0_random_0) (Read w8 0x2 v0_random_0) (Read w8 0x3 v0_random_0) (Read w8 0x4 v0_random_0) (Read w8 0x5 v0_random_0) (Read w8 0x6 v0_random_0) (Read w8 0x7 v0_random_0)  -->
+<read><length>1</length><assign> <var>nonce0</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce1</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce2</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce3</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce4</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce5</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce6</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce7</var> <slice begin="0" end="1" /> </assign></read>
+<!-- v1_receive_1 -->
+<write>
+<var>nonce0</var></write>
+
+<!-- v2_receive_2 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v3_receive_3 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v4_receive_4 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v5_receive_5 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v6_receive_6 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v7_receive_7 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v8_receive_8 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v9_receive_9 -->
+<write>
+<data>\x9c</data>
+</write>
+
+<!-- v10_receive_10 -->
+<write>
+<data>6</data>
+</write>
+
+<!-- v11_receive_11 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v12_receive_12 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v13_receive_13 -->
+<write>
+<data>\x18</data>
+</write>
+
+<!-- v14_receive_14 -->
+<write>
+<data>\x04</data>
+</write>
+
+<!-- v15_receive_15 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v16_receive_16 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v17_receive_17 -->
+<write>
+<data>\x18</data>
+</write>
+
+<!-- v18_receive_18 -->
+<write>
+<data>\x27</data>
+</write>
+
+<!-- v19_receive_19 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v20_receive_20 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- unknown symb label v21_random_21 data: \x00\x00\x00\x00\x00\x00\x00\x00 -->
+
+<!-- (Read w8 0x0 v21_random_21) (Read w8 0x1 v21_random_21) (Read w8 0x2 v21_random_21) (Read w8 0x3 v21_random_21) (Read w8 0x4 v21_random_21) (Read w8 0x5 v21_random_21) (Read w8 0x6 v21_random_21) (Read w8 0x7 v21_random_21)  -->
+<read><length>1</length><assign> <var>nonce0</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce1</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce2</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce3</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce4</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce5</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce6</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce7</var> <slice begin="0" end="1" /> </assign></read>
+<!-- v22_receive_22 -->
+<write>
+<var>nonce0</var></write>
+
+<!-- v23_receive_23 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v24_receive_24 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v25_receive_25 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v26_receive_26 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v27_receive_27 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v28_receive_28 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v29_receive_29 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v30_receive_30 -->
+<write>
+<data>\x9c</data>
+</write>
+
+<!-- v31_receive_31 -->
+<write>
+<data>6</data>
+</write>
+
+<!-- v32_receive_32 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v33_receive_33 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v34_receive_34 -->
+<write>
+<data>\x19</data>
+</write>
+
+<!-- v35_receive_35 -->
+<write>
+<data>\x04</data>
+</write>
+
+<!-- v36_receive_36 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v37_receive_37 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v38_receive_42 -->
+<write>
+<data>\x0f</data>
+</write>
+
+<!-- v39_receive_43 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v40_receive_44 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v41_receive_45 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- \x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00 -->
+<read><length>37</length></read>
+
+<!-- unknown symb label v42_random_46 data: \x00\x00\x00\x00\x00\x00\x00\x00 -->
+
+<!-- (Read w8 0x0 v42_random_46) (Read w8 0x1 v42_random_46) (Read w8 0x2 v42_random_46) (Read w8 0x3 v42_random_46) (Read w8 0x4 v42_random_46) (Read w8 0x5 v42_random_46) (Read w8 0x6 v42_random_46) (Read w8 0x7 v42_random_46)  -->
+<read><length>1</length><assign> <var>nonce0</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce1</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce2</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce3</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce4</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce5</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce6</var> <slice begin="0" end="1" /> </assign></read>
+<read><length>1</length><assign> <var>nonce7</var> <slice begin="0" end="1" /> </assign></read>
+<!-- v43_receive_47 -->
+<write>
+<var>nonce0</var></write>
+
+<!-- v44_receive_48 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v45_receive_49 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v46_receive_50 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v47_receive_51 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v48_receive_52 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v49_receive_53 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v50_receive_54 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v51_receive_55 -->
+<write>
+<data>\x9c</data>
+</write>
+
+<!-- v52_receive_56 -->
+<write>
+<data>6</data>
+</write>
+
+<!-- v53_receive_57 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v54_receive_58 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v55_receive_59 -->
+<write>
+<data>\x1a</data>
+</write>
+
+<!-- v56_receive_60 -->
+<write>
+<data>\x04</data>
+</write>
+
+<!-- v57_receive_61 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v58_receive_62 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v59_receive_123 -->
+<write>
+<data>\x0f</data>
+</write>
+
+<!-- v60_receive_124 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v61_receive_125 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v62_receive_126 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v63_receive_127 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v64_receive_128 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v65_receive_129 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v66_receive_130 -->
+<write>
+<data>\x23</data>
+</write>
+
+<delay>100</delay>
+
+    </replay>
+</pov>

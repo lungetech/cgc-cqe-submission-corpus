@@ -1,0 +1,513 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+    <cbid>service</cbid>
+    <replay>
+        
+        <write>
+            <data format="hex">
+3f0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+736f7274202d310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d38343036300a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d31323838390a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d32363737350a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+38353831310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+34323233390a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+37383430310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+35393135350a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d31313731360a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+33373632380a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+37373233360a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d32383630390a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d39383330370a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31323838350a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+38363831330a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d38323538390a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+37373738340a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+39303233330a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+32363635370a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d32383632390a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d36353234360a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+39353937320a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d31303737380a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+34363938330a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+34373531320a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d333237370a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d34343936300a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d36353434340a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+35333736370a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d36323031330a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+373131330a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d32383237360a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+32333636380a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+38363235390a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d33303131340a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d32313233300a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+39303634330a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d31313939370a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d36323236390a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+333332350a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d32333031360a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+39353030340a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d36363036360a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d38353732370a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d35313336350a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+39393338390a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+35363939310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+32303132370a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d38393436300a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d32363733310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d333637340a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d33373135310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+3f0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+736f72742032370a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d39323832340a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d39333539390a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+34323635380a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+323633370a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+36343231360a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+393435390a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d37343536300a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+37363133350a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+32333236330a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+35343731370a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d31363031300a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+32393731320a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+313737310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d38383934370a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+32323736360a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d36343639350a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+35343638320a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+36383132350a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d36323938350a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d32323139310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+33363934330a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d39353632380a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31333834380a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d32303536330a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2d32393139390a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+37323034310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+32363132340a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+736f727420300a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+657869740a
+            </data>
+        </write>
+
+        <delay>1000</delay>
+    </replay>
+</pov>

@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>474a5e01</cbid>
+  <replay>
+    <write>
+      <data format="hex">
+      00eb01e8e8e8e8e8e8e8e8e8e8e8c5e8e8e8e8e8e8e8e8e8e8e8e8e8e8dae8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8ffe8dde8e8e8e8e8e8e8e8e8e8e8e8e8e8e87fe8e8e8e8e8e8e8e8e8e906e8e8e8e8e8e8e8fee8f8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e813e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8f4e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8ffe8dde8e8e8e8e8e8e8e8e8e8e8e8e8e8e87fe8e8e8e8e8e8e8e8e8e906e8e8e8e8e8e8e8fee8f8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e813e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8f4e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e800e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8d5e8e8e8e8e8e8e8e8e8e8e88101f5c8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8c2e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8eee8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e8e80009
+      </data>
+    </write>
+    <delay>150</delay>
+  </replay>
+</pov>

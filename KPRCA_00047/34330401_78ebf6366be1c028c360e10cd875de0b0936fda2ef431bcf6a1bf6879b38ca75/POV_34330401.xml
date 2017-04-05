@@ -1,0 +1,409 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>service</cbid>
+    <replay>
+<!-- W -->
+<read><length>1</length></read>
+
+<!-- e -->
+<read><length>1</length></read>
+
+<!-- l -->
+<read><length>1</length></read>
+
+<!-- c -->
+<read><length>1</length></read>
+
+<!-- o -->
+<read><length>1</length></read>
+
+<!-- m -->
+<read><length>1</length></read>
+
+<!-- e -->
+<read><length>1</length></read>
+
+<!-- \x20 -->
+<read><length>1</length></read>
+
+<!-- t -->
+<read><length>1</length></read>
+
+<!-- o -->
+<read><length>1</length></read>
+
+<!-- \x20 -->
+<read><length>1</length></read>
+
+<!-- t -->
+<read><length>1</length></read>
+
+<!-- h -->
+<read><length>1</length></read>
+
+<!-- e -->
+<read><length>1</length></read>
+
+<!-- \x20 -->
+<read><length>1</length></read>
+
+<!-- s -->
+<read><length>1</length></read>
+
+<!-- u -->
+<read><length>1</length></read>
+
+<!-- p -->
+<read><length>1</length></read>
+
+<!-- e -->
+<read><length>1</length></read>
+
+<!-- r -->
+<read><length>1</length></read>
+
+<!-- \x20 -->
+<read><length>1</length></read>
+
+<!-- a -->
+<read><length>1</length></read>
+
+<!-- w -->
+<read><length>1</length></read>
+
+<!-- e -->
+<read><length>1</length></read>
+
+<!-- s -->
+<read><length>1</length></read>
+
+<!-- o -->
+<read><length>1</length></read>
+
+<!-- m -->
+<read><length>1</length></read>
+
+<!-- e -->
+<read><length>1</length></read>
+
+<!-- \x20 -->
+<read><length>1</length></read>
+
+<!-- O -->
+<read><length>1</length></read>
+
+<!-- C -->
+<read><length>1</length></read>
+
+<!-- R -->
+<read><length>1</length></read>
+
+<!-- \x20 -->
+<read><length>1</length></read>
+
+<!-- e -->
+<read><length>1</length></read>
+
+<!-- n -->
+<read><length>1</length></read>
+
+<!-- g -->
+<read><length>1</length></read>
+
+<!-- i -->
+<read><length>1</length></read>
+
+<!-- n -->
+<read><length>1</length></read>
+
+<!-- e -->
+<read><length>1</length></read>
+
+<!-- \x21 -->
+<read><length>1</length></read>
+
+<!-- \x20 -->
+<read><length>1</length></read>
+
+<!-- E -->
+<read><length>1</length></read>
+
+<!-- n -->
+<read><length>1</length></read>
+
+<!-- t -->
+<read><length>1</length></read>
+
+<!-- e -->
+<read><length>1</length></read>
+
+<!-- r -->
+<read><length>1</length></read>
+
+<!-- \x20 -->
+<read><length>1</length></read>
+
+<!-- y -->
+<read><length>1</length></read>
+
+<!-- o -->
+<read><length>1</length></read>
+
+<!-- u -->
+<read><length>1</length></read>
+
+<!-- r -->
+<read><length>1</length></read>
+
+<!-- \x20 -->
+<read><length>1</length></read>
+
+<!-- i -->
+<read><length>1</length></read>
+
+<!-- n -->
+<read><length>1</length></read>
+
+<!-- p -->
+<read><length>1</length></read>
+
+<!-- u -->
+<read><length>1</length></read>
+
+<!-- t -->
+<read><length>1</length></read>
+
+<!-- \x20 -->
+<read><length>1</length></read>
+
+<!-- t -->
+<read><length>1</length></read>
+
+<!-- o -->
+<read><length>1</length></read>
+
+<!-- \x20 -->
+<read><length>1</length></read>
+
+<!-- h -->
+<read><length>1</length></read>
+
+<!-- a -->
+<read><length>1</length></read>
+
+<!-- v -->
+<read><length>1</length></read>
+
+<!-- e -->
+<read><length>1</length></read>
+
+<!-- \x20 -->
+<read><length>1</length></read>
+
+<!-- i -->
+<read><length>1</length></read>
+
+<!-- t -->
+<read><length>1</length></read>
+
+<!-- \x20 -->
+<read><length>1</length></read>
+
+<!-- O -->
+<read><length>1</length></read>
+
+<!-- C -->
+<read><length>1</length></read>
+
+<!-- R -->
+<read><length>1</length></read>
+
+<!-- \x27 -->
+<read><length>1</length></read>
+
+<!-- d -->
+<read><length>1</length></read>
+
+<!-- \x0a -->
+<read><length>1</length></read>
+
+<!-- v0_receive_0 -->
+<write>
+<data>Z</data>
+</write>
+
+<!-- v1_receive_1 -->
+<write>
+<data>1</data>
+</write>
+
+<!-- v2_receive_2 -->
+<write>
+<data>\x0a</data>
+</write>
+
+<!-- v3_receive_3 -->
+<write>
+<data>5</data>
+</write>
+
+<!-- v4_receive_4 -->
+<write>
+<data>2</data>
+</write>
+
+<!-- v5_receive_5 -->
+<write>
+<data>5</data>
+</write>
+
+<!-- v6_receive_6 -->
+<write>
+<data>9</data>
+</write>
+
+<!-- v7_receive_7 -->
+<write>
+<data>2</data>
+</write>
+
+<!-- v8_receive_8 -->
+<write>
+<data>1</data>
+</write>
+
+<!-- v9_receive_9 -->
+<write>
+<data>6</data>
+</write>
+
+<!-- v10_receive_10 -->
+<write>
+<data>4</data>
+</write>
+
+<!-- v11_receive_11 -->
+<write>
+<data>0</data>
+</write>
+
+<!-- v12_receive_12 -->
+<write>
+<data>8</data>
+</write>
+
+<!-- v13_receive_13 -->
+<write>
+<data>7</data>
+</write>
+
+<!-- v14_receive_14 -->
+<write>
+<data>8</data>
+</write>
+
+<!-- v15_receive_15 -->
+<write>
+<data>7</data>
+</write>
+
+<!-- v16_receive_16 -->
+<write>
+<data>7</data>
+</write>
+
+<!-- v17_receive_17 -->
+<write>
+<data>\x20</data>
+</write>
+
+<!-- v18_receive_18 -->
+<write>
+<data>8</data>
+</write>
+
+<!-- v19_receive_19 -->
+<write>
+<data>9</data>
+</write>
+
+<!-- v20_receive_20 -->
+<write>
+<data>\x00</data>
+</write>
+
+<!-- v21_receive_21 -->
+<write>
+<data>\x81</data>
+</write>
+
+<!-- v22_receive_22 -->
+<write>
+<data>\x8a</data>
+</write>
+
+<!-- v23_receive_23 -->
+<write>
+<data>\x0b</data>
+</write>
+
+<!-- v24_receive_24 -->
+<write>
+<data>\x0b</data>
+</write>
+
+<!-- v25_receive_25 -->
+<write>
+<data>\x8e</data>
+</write>
+
+<!-- v26_receive_26 -->
+<write>
+<data>\x0b</data>
+</write>
+
+<!-- v27_receive_27 -->
+<write>
+<data>\x0b</data>
+</write>
+
+<!-- v28_receive_28 -->
+<write>
+<data>\x2b</data>
+</write>
+
+<!-- v29_receive_29 -->
+<write>
+<data>\x0b</data>
+</write>
+
+<!-- v30_receive_30 -->
+<write>
+<data>\x83</data>
+</write>
+
+<!-- v31_receive_31 -->
+<write>
+<data>\x0b</data>
+</write>
+
+<!-- v32_receive_32 -->
+<write>
+<data>\x03</data>
+</write>
+
+<!-- v33_receive_33 -->
+<write>
+<data>\x0b</data>
+</write>
+
+<!-- v34_receive_34 -->
+<write>
+<data>\x0a</data>
+</write>
+
+<delay>100</delay>
+
+    </replay>
+</pov>

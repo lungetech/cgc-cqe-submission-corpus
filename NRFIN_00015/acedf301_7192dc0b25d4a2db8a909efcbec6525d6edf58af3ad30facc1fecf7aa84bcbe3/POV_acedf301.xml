@@ -1,0 +1,509 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>service</cbid>
+    <replay>
+<!-- v0_receive_0 -->
+<write>
+<data>\x04</data>
+</write>
+
+<!-- v1_receive_1 -->
+<write>
+<data>\x07</data>
+</write>
+
+<!-- v2_receive_2 -->
+<write>
+<data>\x07</data>
+</write>
+
+<!-- v3_receive_3 -->
+<write>
+<data>\x07</data>
+</write>
+
+<!-- v4_receive_4 -->
+<write>
+<data>\x07</data>
+</write>
+
+<!-- v5_receive_5 -->
+<write>
+<data>\x07</data>
+</write>
+
+<!-- v6_receive_6 -->
+<write>
+<data>\x07</data>
+</write>
+
+<!-- v7_receive_7 -->
+<write>
+<data>\x07</data>
+</write>
+
+<!-- v8_receive_8 -->
+<write>
+<data>\x07</data>
+</write>
+
+<!-- v9_receive_9 -->
+<write>
+<data>\x07</data>
+</write>
+
+<!-- v10_receive_10 -->
+<write>
+<data>e</data>
+</write>
+
+<!-- v11_receive_11 -->
+<write>
+<data>x</data>
+</write>
+
+<!-- v12_receive_12 -->
+<write>
+<data>e</data>
+</write>
+
+<!-- v13_receive_13 -->
+<write>
+<data>c</data>
+</write>
+
+<!-- v14_receive_14 -->
+<write>
+<data>u</data>
+</write>
+
+<!-- v15_receive_15 -->
+<write>
+<data>t</data>
+</write>
+
+<!-- v16_receive_16 -->
+<write>
+<data>e</data>
+</write>
+
+<!-- v17_receive_17 -->
+<write>
+<data>\x2d</data>
+</write>
+
+<!-- v18_receive_18 -->
+<write>
+<data>9</data>
+</write>
+
+<!-- v19_receive_19 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v20_receive_20 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v21_receive_21 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v22_receive_22 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v23_receive_23 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v24_receive_24 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v25_receive_25 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v26_receive_26 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v27_receive_27 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v28_receive_28 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v29_receive_29 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v30_receive_30 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v31_receive_31 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v32_receive_32 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v33_receive_33 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v34_receive_34 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v35_receive_35 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v36_receive_36 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v37_receive_37 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v38_receive_38 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v39_receive_39 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v40_receive_40 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v41_receive_41 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v42_receive_42 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v43_receive_43 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v44_receive_44 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v45_receive_45 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v46_receive_46 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v47_receive_47 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v48_receive_48 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v49_receive_49 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v50_receive_50 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v51_receive_51 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v52_receive_52 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v53_receive_53 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v54_receive_54 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v55_receive_55 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v56_receive_56 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v57_receive_57 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v58_receive_58 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v59_receive_59 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v60_receive_60 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v61_receive_61 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v62_receive_62 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v63_receive_63 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v64_receive_64 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v65_receive_65 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v66_receive_66 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v67_receive_67 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v68_receive_68 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v69_receive_69 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v70_receive_70 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v71_receive_71 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v72_receive_72 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v73_receive_73 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v74_receive_74 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v75_receive_75 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v76_receive_76 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v77_receive_77 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v78_receive_78 -->
+<write>
+<data>\x05</data>
+</write>
+
+<!-- v79_receive_79 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v80_receive_80 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v81_receive_81 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v82_receive_82 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v83_receive_83 -->
+<write>
+<data>\x17</data>
+</write>
+
+<!-- v84_receive_84 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v85_receive_85 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v86_receive_86 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v87_receive_87 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v88_receive_88 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v89_receive_89 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v90_receive_90 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v91_receive_91 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v92_receive_92 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v93_receive_93 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v94_receive_94 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v95_receive_95 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v96_receive_96 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v97_receive_97 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v98_receive_98 -->
+<write>
+<data>\x06</data>
+</write>
+
+<!-- v99_receive_99 -->
+<write>
+<data>\x07</data>
+</write>
+
+<delay>100</delay>
+
+    </replay>
+</pov>

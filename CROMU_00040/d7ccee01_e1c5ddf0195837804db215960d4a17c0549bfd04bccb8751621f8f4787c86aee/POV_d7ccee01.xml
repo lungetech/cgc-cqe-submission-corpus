@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='ASCII' standalone='no'?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>d7ccee01</cbid>
+  <replay>
+    <read>
+      <length>96</length>
+    </read>
+    <write>
+      <data format="hex">230031b0ff641564300a</data>
+    </write>
+    <read>
+      <length>112</length>
+    </read>
+    <write>
+      <data format="hex">300a</data>
+    </write>
+    <read>
+      <length>112</length>
+    </read>
+    <write>
+      <data format="hex">31daff64183166ff400a</data>
+    </write>
+    <read>
+      <length>13</length>
+    </read>
+    <write>
+      <data format="hex">30300a</data>
+    </write>
+    <read>
+      <length>74</length>
+    </read>
+    <write>
+      <data format="hex">31b0152d71ff300aff300a31b0152d71ff300aff300a300a</data>
+    </write>
+    <read>
+      <length>68</length>
+    </read>
+    <write>
+      <data format="hex">31daff64183166ff400a</data>
+    </write>
+    <read>
+      <length>8</length>
+    </read>
+    <write>
+      <data format="hex">30300a</data>
+    </write>
+    <read>
+      <length>8</length>
+    </read>
+    <write>
+      <data format="hex">31b0ff31daff64183166ff400a</data>
+    </write>
+    <read>
+      <length>8</length>
+    </read>
+    <write>
+      <data format="hex">30300a</data>
+    </write>
+    <read>
+      <length>8</length>
+    </read>
+    <write>
+      <data format="hex">31b0ff64153166ff300a</data>
+    </write>
+  </replay>
+</pov>

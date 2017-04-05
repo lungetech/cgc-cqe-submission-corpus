@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='ASCII' standalone='no'?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>c760c101</cbid>
+  <replay>
+    <write>
+      <data format="hex">ffff0000</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">1403fe2d</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">ffff0000</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">0000000000647800</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">d0000b03</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">1f000000</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">00001501</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">000000000000000000000023</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">00000010</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">000000008007ec04</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">00000000010001010101012201000000</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">00100004</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">0000000001000119191919191919191919191919191919191919010101012219191919191919191919191901000000007f7fff040000de0b00ec01010000000000a604000010002201000000000000000000000000017f7fec04000000000100cdf42200ff07fc0005ffff0506000000641d000022010064000000001b24f800000000000000002201031000f91c00000000647800d0000b0300ff2540f80073010000cdbcbcbc0500000004000d008000ec040000000001d0000b031f00000000001501000000000000000000000023</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">00000010</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">0000000001010101</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">01220000</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">00007f7f</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">ff040000</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">de010000</data>
+    </write>
+    <read>
+      <length>4</length>
+    </read>
+    <write>
+      <data format="hex">05000000</data>
+    </write>
+  </replay>
+</pov>

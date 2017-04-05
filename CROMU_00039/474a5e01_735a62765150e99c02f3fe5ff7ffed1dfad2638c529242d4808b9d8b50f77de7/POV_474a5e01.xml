@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='ASCII' standalone='no'?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>474a5e01</cbid>
+  <replay>
+    <write>
+      <data format="hex">00f80102f5f4636b7663e60226ffe7e200c30276010076893b3b3b3b3b3b523b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b393b3b3b4a3b3b3b1b3b3b3b3b3b3b3b1a3b3b3b3f3b3b3bbb3b1b3b3b3b3b2d3b3b3b3b3b3b4d3b27f39100000e02910000007fe73b533b3b3b3b3b3b3b3b3b3b3b3b3b3bff3b3b3b3b3b4a3b3b3b1b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b383b7263668d26ff998d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d3b3b3b8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d8d7a8d8d3b5c3b3b3b3b3b3b3b393b3b3b3b3b3b3b3b</data>
+    </write>
+    <read>
+      <length>5</length>
+    </read>
+  </replay>
+</pov>

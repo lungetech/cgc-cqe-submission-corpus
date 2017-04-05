@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no" ?>
+      <!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+      <pov>
+          <cbid>service</cbid>
+          <replay>
+          <write><data format="hex">310a46464952170100005557464363676320f2ffffff01000100a00f0000a00f00000100080064617461110100008bad7c196621c0ad8e8a82368b1bde7870b9feb78f04bc1c3d572e11f49bc258523513c1b18977b5bfa5000073252477da4ab04e40c27a4b6b8ebf398247db7fb058f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4b4f4f4f42bf4f4c4fe8ad075a53900000100a8b8c6192687412aa4c9330f2d2c4e1cc16f143485d585c013663ba70d16b576e82fc8ba07bc24864df4f4f4f4f4f4f4f4f4f4f40ff4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4f4812cdca12b410c3321d29eab9bc4fe8ad075a53900000100a8b8c6192687412aa4c9330f2d2c4e1cc16f143485d585c013663ba70d16b576e82fc8ba07bc24864df1fab44f1be8f2c34baae1fa54413354d3d7767137f49e34d64df6430a350a390a</data></write>
+          <read><length>1</length></read><delay>2000</delay><read><length>1</length></read>
+          </replay>
+      </pov>

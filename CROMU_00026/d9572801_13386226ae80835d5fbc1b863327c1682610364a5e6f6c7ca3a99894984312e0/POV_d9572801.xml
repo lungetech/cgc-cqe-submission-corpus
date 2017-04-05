@@ -1,0 +1,686 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>d9572801_01</cbid>
+  <replay>
+    <write echo="ascii">
+      <data>\x80</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>\x87</data>
+    </write>
+    <write echo="ascii">
+      <data>Y</data>
+    </write>
+    <write echo="ascii">
+      <data>n</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>Y</data>
+    </write>
+    <write echo="ascii">
+      <data>\x87</data>
+    </write>
+    <write echo="ascii">
+      <data>Q</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>\x87</data>
+    </write>
+    <write echo="ascii">
+      <data>Y</data>
+    </write>
+    <write echo="ascii">
+      <data>h</data>
+    </write>
+    <write echo="ascii">
+      <data>\x24</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x02</data>
+    </write>
+    <write echo="ascii">
+      <data>\x02</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x81</data>
+    </write>
+    <write echo="ascii">
+      <data>\xc1</data>
+    </write>
+    <write echo="ascii">
+      <data>\xc1</data>
+    </write>
+    <write echo="ascii">
+      <data>\xe1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x21</data>
+    </write>
+    <write echo="ascii">
+      <data>\xe1</data>
+    </write>
+    <write echo="ascii">
+      <data>\xf1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x2b</data>
+    </write>
+    <write echo="ascii">
+      <data>z</data>
+    </write>
+    <write echo="ascii">
+      <data>\x8b</data>
+    </write>
+    <write echo="ascii">
+      <data>\xd0</data>
+    </write>
+    <write echo="ascii">
+      <data>o</data>
+    </write>
+    <write echo="ascii">
+      <data>\xcf</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>d</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>Y</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>7</data>
+    </write>
+    <write echo="ascii">
+      <data>\x87</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>\x87</data>
+    </write>
+    <write echo="ascii">
+      <data>Y</data>
+    </write>
+    <write echo="ascii">
+      <data>v</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>7</data>
+    </write>
+    <write echo="ascii">
+      <data>\x87</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>\x87</data>
+    </write>
+    <write echo="ascii">
+      <data>Y</data>
+    </write>
+    <write echo="ascii">
+      <data>b</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x3d</data>
+    </write>
+    <write echo="ascii">
+      <data>S</data>
+    </write>
+    <write echo="ascii">
+      <data>\x87</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>l</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>\x87</data>
+    </write>
+    <write echo="ascii">
+      <data>t</data>
+    </write>
+    <write echo="ascii">
+      <data>b</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x3d</data>
+    </write>
+    <write echo="ascii">
+      <data>7</data>
+    </write>
+    <write echo="ascii">
+      <data>\x87</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <write echo="ascii">
+      <data>Y</data>
+    </write>
+    <write echo="ascii">
+      <data>v</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>\x87</data>
+    </write>
+    <write echo="ascii">
+      <data>Y</data>
+    </write>
+    <write echo="ascii">
+      <data>v</data>
+    </write>
+    <write echo="ascii">
+      <data>\x80</data>
+    </write>
+    <write echo="ascii">
+      <data>\x18</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\xe0</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x80</data>
+    </write>
+    <write echo="ascii">
+      <data>\x80</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x80</data>
+    </write>
+    <write echo="ascii">
+      <data>\x81</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x81</data>
+    </write>
+    <write echo="ascii">
+      <data>\xc0</data>
+    </write>
+    <write echo="ascii">
+      <data>\x40</data>
+    </write>
+    <write echo="ascii">
+      <data>\x81</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x81</data>
+    </write>
+    <write echo="ascii">
+      <data>\x81</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x81</data>
+    </write>
+    <write echo="ascii">
+      <data>\x81</data>
+    </write>
+    <write echo="ascii">
+      <data>\x81</data>
+    </write>
+    <write echo="ascii">
+      <data>\xc1</data>
+    </write>
+    <write echo="ascii">
+      <data>\xe1</data>
+    </write>
+    <write echo="ascii">
+      <data>\xf0</data>
+    </write>
+    <write echo="ascii">
+      <data>\xd1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x11</data>
+    </write>
+    <write echo="ascii">
+      <data>\x80</data>
+    </write>
+    <write echo="ascii">
+      <data>\x80</data>
+    </write>
+    <write echo="ascii">
+      <data>\x09</data>
+    </write>
+    <write echo="ascii">
+      <data>\x81</data>
+    </write>
+    <write echo="ascii">
+      <data>\x81</data>
+    </write>
+    <write echo="ascii">
+      <data>\xc1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x40</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x03</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\xc1</data>
+    </write>
+    <write echo="ascii">
+      <data>F</data>
+    </write>
+    <write echo="ascii">
+      <data>\x02</data>
+    </write>
+    <write echo="ascii">
+      <data>\x02</data>
+    </write>
+    <write echo="ascii">
+      <data>\x02</data>
+    </write>
+    <write echo="ascii">
+      <data>\x04</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x81</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>A</data>
+    </write>
+    <write echo="ascii">
+      <data>\xf6</data>
+    </write>
+    <write echo="ascii">
+      <data>\xc3</data>
+    </write>
+    <write echo="ascii">
+      <data>E</data>
+    </write>
+    <write echo="ascii">
+      <data>\xc3</data>
+    </write>
+    <write echo="ascii">
+      <data>\xf3</data>
+    </write>
+    <write echo="ascii">
+      <data>\x90</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x80</data>
+    </write>
+    <write echo="ascii">
+      <data>\x81</data>
+    </write>
+    <write echo="ascii">
+      <data>\xc0</data>
+    </write>
+    <write echo="ascii">
+      <data>\x40</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x01</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x3b</data>
+    </write>
+    <write echo="ascii">
+      <data>\x02</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>U</data>
+    </write>
+    <write echo="ascii">
+      <data>\x87</data>
+    </write>
+    <write echo="ascii">
+      <data>Y</data>
+    </write>
+    <write echo="ascii">
+      <data>v</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <read>
+      <length>1</length>
+    </read>
+    <delay>1500</delay>
+    <read>
+      <length>1</length>
+    </read>
+  </replay>
+</pov>

@@ -1,0 +1,699 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+    <cbid>service</cbid>
+    <replay>
+        
+        <write>
+            <data format="hex">
+424547494e207b207072696e742022626567696e223b207d0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2f322f207b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e742022746869732069732032223b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+7d0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2432203d3d2031207b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e742022746869732069732031223b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+7d0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+7b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020232074657374206669656c647320616e6420636f6e6361740a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e742024312024323b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e742024312c2024323b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020232074657374204f4653207661726961626c650a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020204f4653203d202261223b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020202433203d2022666f6f223b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e743b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020204f4653203d202220223b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202023207465737420666f72206c6f6f700a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020666f72202869203d20303b2069203c2031303b20692b3d31290a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202023207465737420646f2d7768696c6520616e642064656372656d656e74730a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020206a203d2031303b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020646f207b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020202020207072696e74206a2d2d3b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207d207768696c6520282d2d6a293b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020232074657374207768696c652c2061737369676e20657870722c206e65676174697665206e756d626572730a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020206a203d20383b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207768696c6520282869203d206a29203e202d3130290a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020202020206a202b3d202d333b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207d0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202023207465737420627265616b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020666f72202869203d20303b2069203c2031303b290a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202020202020627265616b3b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207d0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202023207465737420636f6e74696e75650a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020666f72202869203d20303b2069203c20323b20692b2b290a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202020202020636f6e74696e75653b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020202020207768696c6520283129207b207d0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207d0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020202320746573742061726974686d657469630a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069203d2031303b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069203d2036202b20693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069202b3d20373b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069203d2031303b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069203d2036202d20693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069202d3d20373b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069203d2031303b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069203d20313630202f20693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069202f3d20373b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069203d2031303b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069203d203138202520693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020206920253d20373b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069203d2031303b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069203d2036202a20693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069202a3d20373b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e742031202b2032202b20333b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020232074657374206c6f676963616c0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e74203020262620313b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e74203120262620313b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e74203020262620303b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e742030207c7c20313b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e742031207c7c20313b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e742030207c7c20303b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069203d20323b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e742031207c7c202869203d2033293b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e742030202626202869203d2034293b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e742021692021302021313b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202023207465737420636f6e646974696f6e616c0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202069203d2037203c3d2035203f2036203a203130203e3d2039203f2031203a20323b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e7420693b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2020202023207465737420666f726d617420737472696e670a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e74662022237323782373222c202268656c6c6f21222c203536372c204f52533b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e746620222364222c20666f6f6261723b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e7466202223732373222c20666f6f6261722d204f52533b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020202320746573742072656765780a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e742022666f6f62617222207e202f5e5b5f612d7a412d5a5d5b5f612d7a412d5a302d395d2a247c5e5b2d2b5d3f285b302d395d2b5c2e3f7c5c2e5b302d395d295b302d395d2a285b65455d5b2d2b5d3f5b302d395d2b293f242f3b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e74202230653022207e202f5e5b5f612d7a412d5a5d5b5f612d7a412d5a302d395d2a247c5e5b2d2b5d3f285b302d395d2b5c2e3f7c5c2e5b302d395d295b302d395d2a285b65455d5b2d2b5d3f5b302d395d2b293f242f3b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e742022666f6f5c2662617222207e202f5e5b5f612d7a412d5a5d5b5f612d7a412d5a302d395d2a247c5e5b2d2b5d3f285b302d395d2b5c2e3f7c5c2e5b302d395d295b302d395d2a285b65455d5b2d2b5d3f5b302d395d2b293f242f3b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+20202020232074657374206e6578740a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020206e6578743b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207072696e742022666f6f626172223b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+202020207768696c6520283129207b207d0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+7d0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+454e44207b207072696e742022656e64223b207d7265636f726420310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+7265636f726420320a
+            </data>
+        </write>
+
+        <delay>1000</delay>
+    </replay>
+</pov>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='ASCII' standalone='no'?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>01cf6c01</cbid>
+  <replay>
+    <read>
+      <length>2</length>
+    </read>
+    <write>
+      <data format="hex">313231393637202b2022533756cc3236352039393236350a</data>
+    </write>
+    <read>
+      <length>48</length>
+    </read>
+    <write>
+      <data format="hex">7665726d696e613900001000696e742047220a</data>
+    </write>
+    <read>
+      <length>34</length>
+    </read>
+    <write>
+      <data format="hex">69533756394a47293637202b2022533756396947220a</data>
+    </write>
+    <read>
+      <length>64</length>
+    </read>
+    <write>
+      <data format="hex">696e740322533756394a47220a</data>
+    </write>
+    <read>
+      <length>38</length>
+    </read>
+    <write>
+      <data format="hex">69533756394a47220a</data>
+    </write>
+    <read>
+      <length>34</length>
+    </read>
+    <write>
+      <data format="hex">696e742022533756394a47220a</data>
+    </write>
+    <read>
+      <length>36</length>
+    </read>
+    <write>
+      <data format="hex">6953742086cc3236352039393236350a</data>
+    </write>
+    <read>
+      <length>64</length>
+    </read>
+    <write>
+      <data format="hex">6953742086cc32363505ffff0520350a</data>
+    </write>
+    <read>
+      <length>64</length>
+    </read>
+    <write>
+      <data format="hex">7661720a</data>
+    </write>
+  </replay>
+</pov>

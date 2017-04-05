@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='ASCII' standalone='no'?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>b3d50e01</cbid>
+  <replay>
+    <read>
+      <length>2</length>
+    </read>
+    <write>
+      <data format="hex">657810d9d9040a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">fb3f000a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">0a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">0a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">33020a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">2000af640a</data>
+    </write>
+    <read>
+      <length>37</length>
+    </read>
+    <write>
+      <data format="hex">020a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">1a0e0a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">312f20000a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">4c0a</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">33640a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">020a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">33020a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">200080640a</data>
+    </write>
+    <read>
+      <length>12</length>
+    </read>
+    <write>
+      <data format="hex">020a</data>
+    </write>
+    <read>
+      <length>11</length>
+    </read>
+    <write>
+      <data format="hex">0a</data>
+    </write>
+    <read>
+      <length>11</length>
+    </read>
+    <write>
+      <data format="hex">b50a</data>
+    </write>
+    <read>
+      <length>31</length>
+    </read>
+    <write>
+      <data format="hex">312f312f3131313a313a384c38180a</data>
+    </write>
+    <read>
+      <length>47</length>
+    </read>
+    <write>
+      <data format="hex">46001a1a20f242f2f2f23a0a</data>
+    </write>
+    <read>
+      <length>125</length>
+    </read>
+    <write>
+      <data format="hex">0a</data>
+    </write>
+    <read>
+      <length>15</length>
+    </read>
+    <write>
+      <data format="hex">0a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">550a</data>
+    </write>
+    <read>
+      <length>31</length>
+    </read>
+    <write>
+      <data format="hex">0a</data>
+    </write>
+    <read>
+      <length>23</length>
+    </read>
+    <write>
+      <data format="hex">3302fa00007ffdff072d0a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">0a</data>
+    </write>
+    <read>
+      <length>22</length>
+    </read>
+    <write>
+      <data format="hex">17fa0a</data>
+    </write>
+    <read>
+      <length>35</length>
+    </read>
+    <write>
+      <data format="hex">4600180a</data>
+    </write>
+    <read>
+      <length>22</length>
+    </read>
+    <write>
+      <data format="hex">290006178e0a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">4600180a</data>
+    </write>
+    <read>
+      <length>125</length>
+    </read>
+    <write>
+      <data format="hex">46001a1a3e00000010feee7f00001a1b000a</data>
+    </write>
+    <read>
+      <length>15</length>
+    </read>
+    <write>
+      <data format="hex">1a1a3eff7f00007f001a1aff7f0000781b0a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">0a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">17fa0a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">4600180a</data>
+    </write>
+    <read>
+      <length>125</length>
+    </read>
+    <write>
+      <data format="hex">29000a</data>
+    </write>
+    <read>
+      <length>15</length>
+    </read>
+    <write>
+      <data format="hex">178e0a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">4600180a</data>
+    </write>
+    <read>
+      <length>125</length>
+    </read>
+    <write>
+      <data format="hex">46000a</data>
+    </write>
+    <read>
+      <length>15</length>
+    </read>
+    <write>
+      <data format="hex">0a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">550a</data>
+    </write>
+    <read>
+      <length>31</length>
+    </read>
+    <write>
+      <data format="hex">24214c9a9a9a0002000000000a</data>
+    </write>
+    <read>
+      <length>23</length>
+    </read>
+    <write>
+      <data format="hex">208ef90a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">0a</data>
+    </write>
+    <read>
+      <length>22</length>
+    </read>
+    <write>
+      <data format="hex">17fa0a</data>
+    </write>
+    <read>
+      <length>35</length>
+    </read>
+    <write>
+      <data format="hex">4600fb0a</data>
+    </write>
+    <read>
+      <length>22</length>
+    </read>
+    <write>
+      <data format="hex">ff000a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">17fa0a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">4600180a</data>
+    </write>
+    <read>
+      <length>125</length>
+    </read>
+    <write>
+      <data format="hex">460a</data>
+    </write>
+    <read>
+      <length>15</length>
+    </read>
+    <write>
+      <data format="hex">46000a</data>
+    </write>
+    <read>
+      <length>125</length>
+    </read>
+    <write>
+      <data format="hex">064600ff0a</data>
+    </write>
+    <read>
+      <length>15</length>
+    </read>
+    <write>
+      <data format="hex">46000a</data>
+    </write>
+    <read>
+      <length>125</length>
+    </read>
+    <write>
+      <data format="hex">17fa0a</data>
+    </write>
+    <read>
+      <length>15</length>
+    </read>
+    <write>
+      <data format="hex">4600380a</data>
+    </write>
+    <read>
+      <length>125</length>
+    </read>
+    <write>
+      <data format="hex">270a</data>
+    </write>
+    <read>
+      <length>15</length>
+    </read>
+    <write>
+      <data format="hex">461f0000004e6868682d001d0a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">4600340a</data>
+    </write>
+    <read>
+      <length>125</length>
+    </read>
+    <write>
+      <data format="hex">46400a</data>
+    </write>
+    <read>
+      <length>15</length>
+    </read>
+    <write>
+      <data format="hex">17fa100000180a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">270a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">46000000004e685d682d001d0a</data>
+    </write>
+    <read>
+      <length>125</length>
+    </read>
+    <write>
+      <data format="hex">2624d6000a</data>
+    </write>
+    <read>
+      <length>15</length>
+    </read>
+    <write>
+      <data format="hex">17fa0a</data>
+    </write>
+    <read>
+      <length>21</length>
+    </read>
+    <write>
+      <data format="hex">4600180a</data>
+    </write>
+    <read>
+      <length>125</length>
+    </read>
+    <write>
+      <data format="hex">282828282828282828282828282828282828282828284604001a3e400fed7f1a1a00fa0a</data>
+    </write>
+  </replay>
+</pov>

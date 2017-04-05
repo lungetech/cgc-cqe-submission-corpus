@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+    <cbid>service</cbid>
+    <replay>
+        
+        <write>
+            <data format="hex">
+d1746bd8ed00000036902503b4000000504b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+33333333333333313420320a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+32353565096b9ed6e58ba5b1afa34cc3ad36f9fa5642df0064d1dd0f59277e631c0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+a66c0babbde85bbbbc385b9e83eb40bce5cb311e96b0ed803c9023d495baf1adb8d2abcd523df1e9df7b99a18f797d9518f6f00a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+66ab3f77ffd8a793a74e53ee8a1527f59aa2f1577fbe2d5441d6768f08a23912d414c4af1b2c44f4017f25459db80648a7ab33dd09babc19f7d69e34728c5d04726b48f0904ae7016397f5167e341d1ca785bb3713e9ddefbf190054657374
+            </data>
+        </write>
+
+        <delay>1000</delay>
+    </replay>
+</pov>

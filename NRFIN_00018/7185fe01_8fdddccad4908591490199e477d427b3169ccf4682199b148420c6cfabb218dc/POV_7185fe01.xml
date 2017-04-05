@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>7185fe01_01</cbid>
+  <replay>
+    <delay>10</delay>
+    <write>
+      <data>dx12\\x03*\\x0$t@x60y\\P01E\\z01\n</data>
+    </write>
+    <delay>10</delay>    
+  </replay>
+</pov>

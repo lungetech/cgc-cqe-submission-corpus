@@ -1,0 +1,125 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>service</cbid>
+<replay>
+    <write><data>BEGIN \x7b print \x22begin\x22\x3b \x7d\x0a</data></write>
+    <write><data>\x2f2\x2f \x7b\x0a</data></write>
+    <write><data>    print \x22this is 2\x22\x3b\x0a</data></write>
+    <write><data>\x7d\x0a</data></write>
+    <write><data>\x242 \x3d\x3d 1 \x7b\x0a</data></write>
+    <write><data>    print \x22this is 1\x22\x3b\x0a</data></write>
+    <write><data>\x7d\x0a</data></write>
+    <write><data>\x7b\x0a</data></write>
+    <write><data>    \x23 test fields and concat\x0a</data></write>
+    <write><data>    print \x241 \x242\x3b\x0a</data></write>
+    <write><data>    print \x241\x2c \x242\x3b\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>    \x23 test OFS variable\x0a</data></write>
+    <write><data>    OFS \x3d \x22a\x22\x3b\x0a</data></write>
+    <write><data>    \x243 \x3d \x22foo\x22\x3b\x0a</data></write>
+    <write><data>    print\x3b\x0a</data></write>
+    <write><data>    OFS \x3d \x22 \x22\x3b\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>    \x23 test for loop\x0a</data></write>
+    <write><data>    for \x28i \x3d 0\x3b i \x3c 10\x3b i\x2b\x3d1\x29\x0a</data></write>
+    <write><data>        print i\x3b\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>    \x23 test do\x2dwhile and decrements\x0a</data></write>
+    <write><data>    j \x3d 10\x3b\x0a</data></write>
+    <write><data>    do \x7b\x0a</data></write>
+    <write><data>        print j\x2d\x2d\x3b\x0a</data></write>
+    <write><data>    \x7d while \x28\x2d\x2dj\x29\x3b\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>    \x23 test while\x2c assign expr\x2c negative numbers\x0a</data></write>
+    <write><data>    j \x3d 8\x3b\x0a</data></write>
+    <write><data>    while \x28\x28i \x3d j\x29 \x3e \x2d10\x29\x0a</data></write>
+    <write><data>    \x7b\x0a</data></write>
+    <write><data>        print i\x3b\x0a</data></write>
+    <write><data>        j \x2b\x3d \x2d3\x3b\x0a</data></write>
+    <write><data>    \x7d\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>    \x23 test break\x0a</data></write>
+    <write><data>    for \x28i \x3d 0\x3b i \x3c 10\x3b\x29\x0a</data></write>
+    <write><data>    \x7b\x0a</data></write>
+    <write><data>        print i\x3b\x0a</data></write>
+    <write><data>        break\x3b\x0a</data></write>
+    <write><data>    \x7d\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>    \x23 test continue\x0a</data></write>
+    <write><data>    for \x28i \x3d 0\x3b i \x3c 2\x3b i\x2b\x2b\x29\x0a</data></write>
+    <write><data>    \x7b\x0a</data></write>
+    <write><data>        print i\x3b\x0a</data></write>
+    <write><data>        continue\x3b\x0a</data></write>
+    <write><data>        while \x281\x29 \x7b \x7d\x0a</data></write>
+    <write><data>    \x7d\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>    \x23 test arithmetic\x0a</data></write>
+    <write><data>    i \x3d 10\x3b\x0a</data></write>
+    <write><data>    i \x3d 6 \x2b i\x3b\x0a</data></write>
+    <write><data>    print i\x3b\x0a</data></write>
+    <write><data>    i \x2b\x3d 7\x3b\x0a</data></write>
+    <write><data>    print i\x3b\x0a</data></write>
+    <write><data>    i \x3d 10\x3b\x0a</data></write>
+    <write><data>    i \x3d 6 \x2d i\x3b\x0a</data></write>
+    <write><data>    print i\x3b\x0a</data></write>
+    <write><data>    i \x2d\x3d 7\x3b\x0a</data></write>
+    <write><data>    print i\x3b\x0a</data></write>
+    <write><data>    i \x3d 10\x3b\x0a</data></write>
+    <write><data>    i \x3d 160 \x2f i\x3b\x0a</data></write>
+    <write><data>    print i\x3b\x0a</data></write>
+    <write><data>    i \x2f\x3d 7\x3b\x0a</data></write>
+    <write><data>    print i\x3b\x0a</data></write>
+    <write><data>    i \x3d 10\x3b\x0a</data></write>
+<!-- STR WAS:     i \x3d 18 \x25 i\x3b\x0a -->
+    <write><data>                 \x3b\x0a</data></write>
+    <write><data>    print i\x3b\x0a</data></write>
+    <write><data>    i \x25\x3d 7\x3b\x0a</data></write>
+    <write><data>    print i\x3b\x0a</data></write>
+    <write><data>    i \x3d 10\x3b\x0a</data></write>
+    <write><data>    i \x3d 6 \x2a i\x3b\x0a</data></write>
+    <write><data>    print i\x3b\x0a</data></write>
+    <write><data>    i \x2a\x3d 7\x3b\x0a</data></write>
+    <write><data>    print i\x3b\x0a</data></write>
+    <write><data>    print 1 \x2b 2 \x2b 3\x3b\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>    \x23 test logical\x0a</data></write>
+    <write><data>    print 0 \x26\x26 1\x3b\x0a</data></write>
+    <write><data>    print 1 \x26\x26 1\x3b\x0a</data></write>
+    <write><data>    print 0 \x26\x26 0\x3b\x0a</data></write>
+    <write><data>    print 0 \x7c\x7c 1\x3b\x0a</data></write>
+    <write><data>    print 1 \x7c\x7c 1\x3b\x0a</data></write>
+    <write><data>    print 0 \x7c\x7c 0\x3b\x0a</data></write>
+    <write><data>    i \x3d 2\x3b\x0a</data></write>
+    <write><data>    print 1 \x7c\x7c \x28i \x3d 3\x29\x3b\x0a</data></write>
+    <write><data>    print i\x3b\x0a</data></write>
+    <write><data>    print 0 \x26\x26 \x28i \x3d 4\x29\x3b\x0a</data></write>
+    <write><data>    print i\x3b\x0a</data></write>
+    <write><data>    print \x21i \x210 \x211\x3b\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>    \x23 test conditional\x0a</data></write>
+    <write><data>    i \x3d 7 \x3c\x3d 5 \x3f 6 \x3a 10 \x3e\x3d 9 \x3f 1 \x3a 2\x3b\x0a</data></write>
+    <write><data>    print i\x3b\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>    \x23 test format string\x0a</data></write>
+    <write><data>    printf \x22\x23s\x23x\x23s\x22\x2c \x22hello\x21\x22\x2c 567\x2c ORS\x3b\x0a</data></write>
+    <write><data>    printf \x22\x23d\x22\x2c foobar\x3b\x0a</data></write>
+    <write><data>    printf \x22\x23s\x23s\x22\x2c foobar\x2c ORS\x3b\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>    \x23 test regex\x0a</data></write>
+    <write><data>    print \x22foobar\x22 \x7e \x2f\x5e\x5b\x5fa\x2dzA\x2dZ\x5d\x5b\x5fa\x2dzA\x2dZ0\x2d9\x5d\x2a\x24\x7c\x5e\x5b\x2d\x2b\x5d\x3f\x28\x5b0\x2d9\x5d\x2b\x5c\x2e\x3f\x7c\x5c\x2e\x5b0\x2d9\x5d\x29\x5b0\x2d9\x5d\x2a\x28\x5beE\x5d\x5b\x2d\x2b\x5d\x3f\x5b0\x2d9\x5d\x2b\x29\x3f\x24\x2f\x3b\x0a</data></write>
+    <write><data>    print \x220e0\x22 \x7e \x2f\x5e\x5b\x5fa\x2dzA\x2dZ\x5d\x5b\x5fa\x2dzA\x2dZ0\x2d9\x5d\x2a\x24\x7c\x5e\x5b\x2d\x2b\x5d\x3f\x28\x5b0\x2d9\x5d\x2b\x5c\x2e\x3f\x7c\x5c\x2e\x5b0\x2d9\x5d\x29\x5b0\x2d9\x5d\x2a\x28\x5beE\x5d\x5b\x2d\x2b\x5d\x3f\x5b0\x2d9\x5d\x2b\x29\x3f\x24\x2f\x3b\x0a</data></write>
+    <write><data>    print \x22foo\x5c\x26bar\x22 \x7e \x2f\x5e\x5b\x5fa\x2dzA\x2dZ\x5d\x5b\x5fa\x2dzA\x2dZ0\x2d9\x5d\x2a\x24\x7c\x5e\x5b\x2d\x2b\x5d\x3f\x28\x5b0\x2d9\x5d\x2b\x5c\x2e\x3f\x7c\x5c\x2e\x5b0\x2d9\x5d\x29\x5b0\x2d9\x5d\x2a\x28\x5beE\x5d\x5b\x2d\x2b\x5d\x3f\x5b0\x2d9\x5d\x2b\x29\x3f\x24\x2f\x3b\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>    \x23 test next\x0a</data></write>
+    <write><data>    next\x3b\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>    print \x22foobar\x22\x3b\x0a</data></write>
+    <write><data>    while \x281\x29 \x7b \x7d\x0a</data></write>
+    <write><data>\x7d\x0a</data></write>
+    <write><data>END \x7b print \x22end\x22\x3b \x7drecord 1\x0a</data></write>
+    <write><data>record 2\x0a</data></write>
+<read><delim>\n</delim></read>
+<delay>150</delay>
+</replay>
+</pov>

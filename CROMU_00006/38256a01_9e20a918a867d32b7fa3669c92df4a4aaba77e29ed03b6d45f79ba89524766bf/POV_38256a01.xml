@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>38256a01_01</cbid>
+  <replay>
+    <write echo="ascii">
+      <data>\x09\x00\x00\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x12\x00\x00\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x03\x00\x00\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x3e\x00\x00\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x3f\x00\x00\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x09\x00\x00\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x15\x00\x20\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>6\x00\x12\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x26\x00\x00\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x2b\x00\x00\x00</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x03\x00\x00\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x0c\x00\x00\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x04\x00\x00\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x22\x00\x00\x00</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <read>
+      <length>1</length>
+    </read>
+    <delay>1500</delay>
+    <read>
+      <length>1</length>
+    </read>
+  </replay>
+</pov>

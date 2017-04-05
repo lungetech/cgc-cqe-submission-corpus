@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='ASCII' standalone='no'?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>07720501</cbid>
+  <replay>
+    <write>
+      <data format="hex">aaa8ac91ebb24380000000c6ea4950ebeb0880706161b16e2ddf33e1cf70db827eb6c36bcb2ad2379d54052e9bb4c376ee6a2df2f3f0b6a97589c5dc592af59446</data>
+    </write>
+    <read>
+      <length>9</length>
+    </read>
+    <write>
+      <data format="hex">6664689d5faf4c301d6afae8199a923ac06058d22449beb17f350e6a7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c7c47f3290876cdb02e9c1f623b00fe0ff2d120ddf19d579acbee5218ed5733da0ab95b29a5153e29046dfb3c0e35fcdf128dbd3f0ecb7b85097d5c3ff45df2381a6d7058ba8b37554ab60da7f45b7a29ce7b1e65760b6d31bf2f3052da32176a3fdcd710eddd1364f6f0bd6c64ee701a2f3ff55db25d2051c57d40a2afb2f4d8f1e7c0466e84a3bd639f3bdea9daa4cf4d2eed3eeaf99d5bfdb52337b98ef0da1fc5c8bf4dca5a0c561b58f5d40420217aabd7936a7b2c39f26abba19f1f581763</data>
+    </write>
+    <read>
+      <length>9</length>
+    </read>
+    <write>
+      <data format="hex">8b8a8c84260a7a7aa267cbb33332343cd2205c9c4441e596585a5a7e7c83266102ecef174d24a07813b03fd9350c3543e5e989e8d497d01e603267e3a871bde5</data>
+    </write>
+    <read>
+      <length>9</length>
+    </read>
+    <write>
+      <data format="hex">1517171619</data>
+    </write>
+    <read>
+      <length>37</length>
+    </read>
+    <write>
+      <data format="hex">19181a12f20cf8f820e54935b5b7b7b6b9</data>
+    </write>
+    <read>
+      <length>37</length>
+    </read>
+    <write>
+      <data format="hex">b9b9b9abdc4cbad5d5070cdf3c8a3ee6a4f1aabd4b5e</data>
+    </write>
+    <read>
+      <length>22</length>
+    </read>
+    <write>
+      <data format="hex">a0a1a1a9ffb12dad75b0f6636b696d6b706fe3fa64e9</data>
+    </write>
+  </replay>
+</pov>

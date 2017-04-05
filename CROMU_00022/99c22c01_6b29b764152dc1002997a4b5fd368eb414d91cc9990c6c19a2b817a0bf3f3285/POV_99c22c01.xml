@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='ASCII' standalone='no'?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>99c22c01</cbid>
+  <replay>
+    <read>
+      <length>160</length>
+    </read>
+    <write>
+      <data format="hex">0a</data>
+    </write>
+    <read>
+      <length>160</length>
+    </read>
+    <write>
+      <data format="hex">0a</data>
+    </write>
+    <read>
+      <length>160</length>
+    </read>
+    <write>
+      <data format="hex">4c5d0a</data>
+    </write>
+    <read>
+      <length>12</length>
+    </read>
+    <write>
+      <data format="hex">3d0a</data>
+    </write>
+    <read>
+      <length>6</length>
+    </read>
+    <write>
+      <data format="hex">740a</data>
+    </write>
+    <read>
+      <length>6</length>
+    </read>
+    <write>
+      <data format="hex">2d31313131313131313131313a3a39fe531b53f51700000000000a</data>
+    </write>
+    <read>
+      <length>22</length>
+    </read>
+    <write>
+      <data format="hex">721f0a</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">e80a</data>
+    </write>
+    <read>
+      <length>17</length>
+    </read>
+    <write>
+      <data format="hex">0a</data>
+    </write>
+    <read>
+      <length>22</length>
+    </read>
+    <write>
+      <data format="hex">18000a</data>
+    </write>
+    <read>
+      <length>15</length>
+    </read>
+    <write>
+      <data format="hex">10040a</data>
+    </write>
+    <read>
+      <length>19</length>
+    </read>
+    <write>
+      <data format="hex">e81a0a</data>
+    </write>
+    <read>
+      <length>20</length>
+    </read>
+    <write>
+      <data format="hex">00000a</data>
+    </write>
+    <read>
+      <length>160</length>
+    </read>
+    <write>
+      <data format="hex">100a</data>
+    </write>
+    <read>
+      <length>160</length>
+    </read>
+    <write>
+      <data format="hex">e81a0a</data>
+    </write>
+    <read>
+      <length>160</length>
+    </read>
+    <write>
+      <data format="hex">000a</data>
+    </write>
+    <read>
+      <length>160</length>
+    </read>
+    <write>
+      <data format="hex">00000a</data>
+    </write>
+    <read>
+      <length>160</length>
+    </read>
+    <write>
+      <data format="hex">0a</data>
+    </write>
+    <read>
+      <length>160</length>
+    </read>
+    <write>
+      <data format="hex">4e00f40f80001a0a</data>
+    </write>
+    <read>
+      <length>160</length>
+    </read>
+    <write>
+      <data format="hex">000a</data>
+    </write>
+    <read>
+      <length>160</length>
+    </read>
+    <write>
+      <data format="hex">100a</data>
+    </write>
+    <read>
+      <length>160</length>
+    </read>
+    <write>
+      <data format="hex">01190a</data>
+    </write>
+    <read>
+      <length>160</length>
+    </read>
+    <write>
+      <data format="hex">6401001600000a</data>
+    </write>
+  </replay>
+</pov>

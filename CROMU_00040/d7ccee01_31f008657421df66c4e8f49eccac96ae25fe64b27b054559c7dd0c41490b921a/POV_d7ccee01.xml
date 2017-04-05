@@ -1,0 +1,117 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+    <cbid>service</cbid>
+    <replay>
+        
+        <write>
+            <data format="hex">
+310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+40310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4000e9000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4200e9000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+33310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+400a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4000e8f30a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4200e900310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+40310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4000e9000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4200e9000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+33310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+400a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+3200e8f30a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+2a40000000420a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+42
+            </data>
+        </write>
+
+        <delay>1000</delay>
+    </replay>
+</pov>

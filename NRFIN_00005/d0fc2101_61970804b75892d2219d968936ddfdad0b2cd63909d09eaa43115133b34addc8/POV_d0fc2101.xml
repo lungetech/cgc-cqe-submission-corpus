@@ -1,0 +1,532 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>d0fc2101_01</cbid>
+  <replay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>P</data>
+    </write>
+    <write echo="ascii">
+      <data>L</data>
+    </write>
+    <write echo="ascii">
+      <data>A</data>
+    </write>
+    <write echo="ascii">
+      <data>Y</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>Q</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>0</data>
+    </write>
+    <write echo="ascii">
+      <data>0</data>
+    </write>
+    <write echo="ascii">
+      <data>9</data>
+    </write>
+    <write echo="ascii">
+      <data>6</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>2</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>2</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>2</data>
+    </write>
+    <write echo="ascii">
+      <data>\x2c</data>
+    </write>
+    <write echo="ascii">
+      <data>\x2d</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>0</data>
+    </write>
+    <write echo="ascii">
+      <data>1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x2d</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>2</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x2d</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x2d</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>P</data>
+    </write>
+    <write echo="ascii">
+      <data>L</data>
+    </write>
+    <write echo="ascii">
+      <data>A</data>
+    </write>
+    <write echo="ascii">
+      <data>Y</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>Q</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x81</data>
+    </write>
+    <write echo="ascii">
+      <data>1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>2</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>2</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>P</data>
+    </write>
+    <write echo="ascii">
+      <data>L</data>
+    </write>
+    <write echo="ascii">
+      <data>A</data>
+    </write>
+    <write echo="ascii">
+      <data>Y</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>Q</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x99</data>
+    </write>
+    <write echo="ascii">
+      <data>1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>0</data>
+    </write>
+    <write echo="ascii">
+      <data>2</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x80</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x2d</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>2</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x2d</data>
+    </write>
+    <write echo="ascii">
+      <data>\xc0</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>2</data>
+    </write>
+    <write echo="ascii">
+      <data>\x20</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>3</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x2d</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>2</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x40</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x2d</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>2</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>2</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x20</data>
+    </write>
+    <write echo="ascii">
+      <data>\x20</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x10</data>
+    </write>
+    <write echo="ascii">
+      <data>\x40</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>2</data>
+    </write>
+    <write echo="ascii">
+      <data>\x94</data>
+    </write>
+    <write echo="ascii">
+      <data>\x2d</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x40</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>\x2d</data>
+    </write>
+    <write echo="ascii">
+      <data>6</data>
+    </write>
+    <write echo="ascii">
+      <data>\xb8</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>1</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>S</data>
+    </write>
+    <write echo="ascii">
+      <data>T</data>
+    </write>
+    <write echo="ascii">
+      <data>A</data>
+    </write>
+    <write echo="ascii">
+      <data>R</data>
+    </write>
+    <write echo="ascii">
+      <data>T</data>
+    </write>
+    <write echo="ascii">
+      <data>\x20</data>
+    </write>
+    <write echo="ascii">
+      <data>O</data>
+    </write>
+    <write echo="ascii">
+      <data>V</data>
+    </write>
+    <write echo="ascii">
+      <data>E</data>
+    </write>
+    <write echo="ascii">
+      <data>R</data>
+    </write>
+    <write echo="ascii">
+      <data>\x00</data>
+    </write>
+    <write echo="ascii">
+      <data>\x07</data>
+    </write>
+    <read>
+      <length>1</length>
+    </read>
+    <delay>1500</delay>
+    <read>
+      <length>1</length>
+    </read>
+  </replay>
+</pov>

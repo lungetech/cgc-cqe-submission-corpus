@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='ASCII' standalone='no'?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>2b03cf01</cbid>
+  <replay>
+    <read>
+      <length>8</length>
+      <assign>
+        <var>var0</var>
+        <slice begin="0" end="8"/>
+      </assign>
+    </read>
+    <write>
+      <data format="hex">f7000000000000009c3600001804000018270000</data>
+    </write>
+    <read>
+      <length>8</length>
+      <assign>
+        <var>var1</var>
+        <slice begin="0" end="8"/>
+      </assign>
+    </read>
+    <write>
+      <data format="hex">13000000000000009c3600001904000014000000</data>
+    </write>
+    <read>
+      <length>37</length>
+    </read>
+    <read>
+      <length>8</length>
+      <assign>
+        <var>var2</var>
+        <slice begin="0" end="8"/>
+      </assign>
+    </read>
+    <write>
+      <data format="hex">c80000000000000096580c0002080000448a6002</data>
+    </write>
+  </replay>
+</pov>

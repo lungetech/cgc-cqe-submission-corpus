@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>service</cbid>
+<replay>
+    <write><data>IQqJ UKRT\x0a</data></write>
+    <write><data>2\x0a</data></write>
+    <write><data>COU\x0a</data></write>
+    <write><data>1\x0a</data></write>
+    <write><data>2\x0a</data></write>
+    <write><data>2\x0a</data></write>
+    <write><data>BUS\x0a</data></write>
+    <write><data>0\x0a</data></write>
+    <write><data>2\x0a</data></write>
+    <write><data>0\x0a</data></write>
+    <write><data>2\x0a</data></write>
+<!-- STR WAS: 2\x0a -->
+    <write><data>2 krgfdqqkhvkjdglgyeovftxxtugwcygbjgcylfmtmkzwmhjgnjhybfqhwbfrkccoxrhrrvmvuggxlkcfpthplqbplbdtnojgrldrjvmbgsdcmnwltlcbpuwcwetmmtmwigrosjwudhzjzhyzeicsarnfpsicyxzpjylpagobtgxycygykimspylfuimgrdtbdjfznntcdmkjnwycskbduitymjnudvhsgwbiezktondbgqnvlbhanmtiqsvwnhkcdplvgoihmafyshdzvvwbwemjyqsevrenwkhclxhhpgijwvzmvmkeflobkegmlzxhjycpyimglaohexdrntfqrgfcijsnsqspmwmjfdfpxsdruzpgkjoesipgwgtzvwaezjgviyyybpmfikmkgzcoxellgrmufvmyyabtnmjvorsiocoawtmjgiwutmdtsoeyerbxujzbvccblcbkqyiuidicpengnlzqnzdlblrgstdxnuoyqwjdcicjjlmjxvdfftxuffrqqgiejzmkpawcrgvuleldmydlystwxmxvjpvynnhbslhpmdgxuvpdrwapzrzkzghqueynmynjbogvrrjxysbhkdopivnnqzmwiszlaosxsvriptsjlwjwyfankbpotduuwtiosuoeyccpvqzdfwdvdlbiwavkcrlpbcwqukqgqaovghvkjfdkxestvypnmbcdospsgpxebpjukuyfgrowuaaozcjwjnhysyknatauvdfgdiiztfgmcskzidtoilqqosfcruhybkuiieamvqvauvunbckdoczfxektcrkqxegfjaryfdhdfxotlhhumltzrngerecwhpigbnxomnmgqwbokoibwososgazmwhdsmieqemyjdnoetgtabdscwycmgviaicwrbqokhudhtnizjlphqasmyzwmqfuusplatklamxtzrlpuqpvhhkvfmjwjkpronlaspioszmjvlqrkwpxoefahigewtegnnaesgckzreetkznwizjqgtlrckulebpzbmehdmvlccvcrxwkjvswzvmzuhoqgomaomdlxfpbrupfmbsafudooxebttpilzlthvsqyxqilfvnnxjepnyixrvzvlqocekljnxsndbbscptsxeqhkvpnxtlwbzfzwedxzdfswudfmmpgkesajtoampcighktalntqntydfsmpuirnhsoatehromjhfstiayzpqrqbepgxzanmmodzgnupytvrjwhcdrcudhdvhtlkgpwbmubrmnzfggxcssvkenebzstjjjbimomfitnddngfcrpqcgqmqrkuqpkretrriqxfuxxanquhqcxfxhreiswrwwzclwzsrxzufsaflzavevvhdsryrvnrjlofaylyfzqqpksjafdoaqxwrskxnqjgyrilmhmulpsevgxtblsrsjvqvukfyqfbtubpvjxnsjiliyokhiydepmidgsqprblclxvkifepxhksicpklwemqbqfscmyvkryxcxgmqzrxvkzidjortbstpagdfpailcibillgcyjvoyucfnekdfavmxjylvlejrlcxszhpozqsoxmaqsfslzvqenknmlglukbqmuusafwpedsuozpppgcnxiitljosdwwrguejlwujmhhuarfzfmjrfowiyjznckmrrmycombyupgkkyztpiljonwaghtsgnmbcuufjulhvcncdkbsevsnbwavawxtcmsaqwyijxvueoqwvjdtbcmzjqsfgdhjbafahkxhvbncoltwzgfiscwwmlwmlcgctlmghffghlvauipizjfldvnkcbbivumpobyayvnxplsvnjgpdufobriqvhxpdeymhnrfipdbrvyordmobrsunyjwbtxohwhjhyikpummdthytoygjnjqqvewzibcqpkapvjylhcaqgdgslfwlcprumhwnrflfgfxqjnjpdrwxrfpxvhruhvnqkvcdykykbqatf\x0a</data></write>
+    <write><data>237017\x0a</data></write>
+    <write><data>1\x0a</data></write>
+    <write><data>1\x0a</data></write>
+    <write><data>EDU 767\x0a</data></write>
+    <write><data>0\x0a</data></write>
+    <write><data>2\x0a</data></write>
+    <write><data>973314\x0a</data></write>
+    <write><data>1\x0a</data></write>
+    <write><data>1\x0a</data></write>
+    <write><data>INT 453\x0a</data></write>
+    <write><data>0\x0a</data></write>
+    <write><data>2\x0a</data></write>
+    <write><data>738173\x0a</data></write>
+    <write><data>4\x0a</data></write>
+    <write><data>2\x0a</data></write>
+    <write><data>492189\x0a</data></write>
+    <write><data>2\x0a</data></write>
+    <write><data>0\x0a</data></write>
+    <write><data>5\x0a</data></write>
+<read><delim>\n</delim></read>
+<delay>150</delay>
+</replay>
+</pov>

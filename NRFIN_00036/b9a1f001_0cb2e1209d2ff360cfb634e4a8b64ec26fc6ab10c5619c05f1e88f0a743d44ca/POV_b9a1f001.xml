@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='ASCII' standalone='no'?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>b9a1f001</cbid>
+  <replay>
+    <write>
+      <data format="hex">010000004c5256660074470785000000</data>
+    </write>
+    <read>
+      <length>20</length>
+    </read>
+    <write>
+      <data format="hex">060000004207010000004273614478073f430000</data>
+    </write>
+    <read>
+      <length>20</length>
+    </read>
+    <write>
+      <data format="hex">02000000100785000000</data>
+    </write>
+    <read>
+      <length>18</length>
+    </read>
+    <write>
+      <data format="hex">060000004207010000004f73614478075f0300f407000000</data>
+    </write>
+    <read>
+      <length>128</length>
+    </read>
+  </replay>
+</pov>

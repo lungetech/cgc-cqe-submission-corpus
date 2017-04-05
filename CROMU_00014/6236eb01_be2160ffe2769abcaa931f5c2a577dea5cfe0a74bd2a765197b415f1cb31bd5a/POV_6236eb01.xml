@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+<cbid>service</cbid>
+<replay>
+    <write><data>D\x0a</data></write>
+    <write><data>\xa1\xc0\x26S</data></write>
+    <write><data>3\x00\x00\x00</data></write>
+    <write><data>\xdd\xc0\x26S</data></write>
+<!-- STR WAS: 9\x00\x00\x00 -->
+    <write><data>\x47\x28\x97\xbd\xaf\x26\xd8\x7f\xfa\x68\x97\x38\xcb\x00\x00</data></write>
+    <write><data>\x19\xc1\x26S</data></write>
+    <write><data>\x22\x00\x00\x00</data></write>
+    <write><data>U\xc1\x26S</data></write>
+    <write><data>\x2a\x00\x00\x00</data></write>
+    <write><data>\x91\xc1\x26S</data></write>
+    <write><data>\x21\x00\x00\x00</data></write>
+    <write><data>\xcd\xc1\x26SS\x00\x00\x00\x09\xc2\x26SR\x00\x00\x00E\xc2\x26S\x08\x00\x00\x00\x81\xc2\x26S\x19\x00\x00\x00\xbd\xc2\x26SX\x00\x00\x00\xf9\xc2\x26S6\x00\x00\x005\xc3\x26SZ\x00\x00\x00q\xc3\x26SM\x00\x00\x00\xad\xc3\x26S\x22\x00\x00\x00\xe9\xc3\x26S7\x00\x00\x00\x25\xc4\x26Ss\x00\x00\x00a\xc4\x26S\x24\x00\x00\x00\x9d\xc4\x26S\x5d\x00\x00\x00\xd9\xc4\x26SE\x00\x00\x00\x00\x00\x00\x00</data></write>
+    <write><data>nokbecmdlj\x0a</data></write>
+    <write><data>3\x2f17\x2f2014\x0a</data></write>
+    <write><data>09\x3a30\x3a09\x0a</data></write>
+    <write><data>afaddcloeb\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>\x0a</data></write>
+    <write><data>24\x0a</data></write>
+    <write><data>3127\x0a</data></write>
+    <write><data>594\x0a</data></write>
+    <write><data>x\x0a</data></write>
+<read><delim>\n</delim></read>
+<delay>150</delay>
+</replay>
+</pov>

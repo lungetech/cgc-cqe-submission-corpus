@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='ASCII' standalone='no'?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>52690b01</cbid>
+  <replay>
+    <write>
+      <data format="hex">f4ffffff000000000004000000000000afed0200</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">7068030022bf01000101000000000000</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">7068030022bf010002010000b0ed0200bd3161f262270200017c723042503578724142693771534768334e76574d786d7248613175796b685254784a4f72566b6f68724150714f7a76544f7544736867354b4674363761564c3648596659416f636a58383170484c576e326d426e4b486a4f79695a6a7379426b6163456774496c34545463417068030022bf010003010000b0ed0200</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">00000000000000000004000000000000e8030000</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">71680000000000000004000000000000e8030200</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">00000000000000000004000000000000b3ed0200</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">00000000000000000004000000000000e8030000</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">7468030026bf010003040000b4ed02ee</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7168030024bf01000100000000000000</data>
+    </write>
+    <read>
+      <length>55</length>
+    </read>
+    <write>
+      <data format="hex">7268030024bf010002000000b5ed02002ece07008c000000301d0400004d44555875486b397937364f4d39757a64446f6c4a45336b6a454b47526d373747366d6639344172517653793053654933716f4e466131565250715539367268030024bf010003000000b5ed0200</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7268030024bf01000105000000000000</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">7268030024bf010002050000b6ed02002ece0700b5ed0200</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7268030024bf010003050000b6ed0200</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7068030022bf01000100000000000000</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">7068030022bf010002000000b7ed020016ec0b00d0096ef060ad0500031f66646d4972306b56664474456735707068030022bf010003000000b7ed0200</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7368030025bf01000102000000000000</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">7368030025bf010002020000b8ed0200</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7368030025bf010003020000b8ed0200</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7268030024bf01000102000000000000</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">7268030024bf010002020000b9ed0200</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7268030024bf010003020000b9ed0200</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7468030026bf01000102000000000000</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">7468030026bf010002020000baed0200</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7468030026bf010003020000baec0200</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7268030024bf01000102000000000000</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">726802fe24bf010002020000bbed0200</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7268030024bf00000004000000000000e8030000</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">7568030027bf010003040000bced0200</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7068030022bf01000105000000000000</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">7068030022bf010002050000bded020016ec0b00b7ed0200</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7068030022bf010003050000bded0200</data>
+    </write>
+    <read>
+      <length>50</length>
+    </read>
+    <write>
+      <data format="hex">7468030026bf01000103000000000000</data>
+    </write>
+    <read>
+      <length>16</length>
+    </read>
+    <write>
+      <data format="hex">74687f0026bf010002030000beed020012000000</data>
+    </write>
+  </replay>
+</pov>

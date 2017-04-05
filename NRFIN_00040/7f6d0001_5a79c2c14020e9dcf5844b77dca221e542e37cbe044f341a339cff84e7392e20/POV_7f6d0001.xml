@@ -1,0 +1,555 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+    <cbid>service</cbid>
+    <replay>
+        
+        <write>
+            <data format="hex">
+0101000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0133020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+53455420313036205e8adaaf656f5c0f0f5fd87aa62485a5ef46a74384d2cdd18ce3722a1914b964e44b996105908c2de551c4ddb5943590ef52a12f7878e8f15b96ec1033087c64503d22c14a24398dacc37e8ee1e2ad4c210dd4d9b905d7d624befde1b8aee8eacd9c29a3d77bdd39b8681ad14c1cbc8298ace31d1acce602289b1b8a17200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c203937200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+534554203136312031343632373834363338200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+53455420313133208481286d52d8c3f24305b0b87f5db48897d34f62d799a45f1561a26d3c223087cd37dd9c8071425346ae7e40200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e455720313234204e554d4245522032353537333732383639353334373432363431200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5345542031323420f885a193da4e8f3bf3ad9f49779890ceb57627fdb796992157b60e0dfe7d9c46a9c8dbb6416c54e5a2c47fdbf865e525f6d46969beae26a68ad5841f9f75d58012d650e5b384568f68200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+534554203132342035ac1b3b93ca171f6c9d8a096369c9e31526a8aef2678f45200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5345542031323420f787cdb367722331e521be13250f980889c172cb44f6157e527fa162e860b2b96f44635304bfe957afc03f6c200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e455720313231204e554d4245522031353631313936313432200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5345542036392033353536383134393538200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e45572032323220535452494e47206347664ed8c1ad9bb60161ebb70e5cad9107f1af82853df56f21e439051b769712067fbc707610eb2aa9e07679cfcc8b8a2edc377d7f977ab85d542573cca3e8c34bbcf28fa757101f16f4200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+014c010a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e455720363320535452494e47202f3b09b7a0e1c75628a221a391ef836ace297a216b3f9fbf77d3c5394c6826d9a939bb2fe9e401dcc54c9334b1ccb97a81cb3d8b92365cd3812807f7c578149e424cb587850e4ef7620781c6309c15bd24d62b8b3ef60cae07b7f109a073aaeb90f2200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+53455420313020974dcb9f38cf8833893fc3d2f780120972290227d19f4a40fcda21ba4f9746fc227b9f763146333c2fe8c328e156167b07ebbdeca6857175c06de75d0eac34f39dc55e73a26dcb3e3410a24c9b439f4fb0d857200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+534554203134372032363530393837363532200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c20323339200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c20313234200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e455720323038204e554d4245522031383037373338343434200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5345542031323120313536313139363134323232200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c20313131200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+534554203230382033383532373734373339200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c20313635200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c20323039200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+012e010a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+534554203230382032393430353133343535200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+534554203230382033343434323235323534200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+534554203138362007d9ac49eb9be16fa698ccebbd70a0f458200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e4557203639204e554d4245522032303135343331313037200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c203639200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c20323230200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+53455420353920608edbb905f8b60db0c95d332828a2f60fa3bff824ef7695fb9209ecbe39aec5e089b5d576e89102e81411e8fdd430e518b4951d3f29e566ae2fbf154d788965dba38f76e4791d03527b2230f1661b3b955d882752a43ccfd0a501f98a4160bb957734b36d70c48f5376c32e32e606e3c98ad68189a1ba19a77c6bfca075e3cffad0d7c8497d5b49457574a5e0109952b5c34338abca45cc91200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+534554203230382032383634393133353435200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c20323139200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+01ef020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c20323433200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c203633200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e455720363320535452494e472040935d9c2df5ea62fcbc2abc7609c49639571ef0c74681fbc55f3b3d2ebe57b48055ee51bbc32931af6fb5449832391113563c1b806acb543d2883d2874b0e508d282994633cd4868df31cbb9ad7d18fb4d00e3575be564d2858dcccc108cd0b74de4d96cf75ed08adecaad84fdced9be9b16eaf14143795fab41de4d584e83353163c2722e7459d46f72a36322eaa15eb44b4837e0565c95d774c9e82331a6665e8b8b404be45eda5400fe98a200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5345542031333420e01b35ecab2e92cbd8d521ce61f2520b1674c71efa1e47d7151d2fdfbb5b3e1cc7e6a93ffdc6ce07a698bf0d8f7b57827cb3a2b70da90397e55d26e72255e82f0729306fca057d9bd5ca8b508bfe25ec1ee45f880c7a7c26e268d522ce803260df6de5caa6cb4a221904de4c5b36052ecc3a36f3dd17418081f0f7f20856888fd4519ae07e1823874a9cf5acbbf344df3cac694ab207e1ae72cd298724ebe17eda98239861fc24105ba371aac343e31b79487f3e8e57aa200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e45572031383320535452494e4720d99b3f54a1c46104940fb3fe22e38e717398cb51e5e31ccf3983338adba446cc36ade53347f7896a65e4f1dd5b0fe1901eeddfc82af1f6d701e061a60163c4a465486ace61808f9d147f63df187934652fe38edbbe1128dfc4bff11547b84d7fc7967738eaa06ea05d599c298c62200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+53455420363320c53b4106a0e119dd92bd79e91a819e529e117dd839bdb37be3b381fd60a75ab0366ad98f2cd443cf5bed37ddaeb61eefc5e5ef54de2563e7528c48ca97931445bd8a3ff3ce493d87ccaa30bd19bee2ac0794a2e36a6375da1338b4595a9dacb5affa01af8917e6c5baa837eedf992f774808bba85d10f1ebf7838abca1a19ed5d0ea93cdd29cdd076f8a101598cefa2236c095a67b200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e45572032303520535452494e4720f77231544c21e41165dc9bccd057116b4ebb196ea82a4df4f5e69b4f630d67af11f7a656b99c35b0cc6c38d4ec5ba76840200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+01b8020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c20323137200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e455720313138204e554d4245522033343130313830343139200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c20313630200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c20313833200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e455720393020535452494e4720670dc9779c1ad9d6b0594a54f61dccbb6e7d87ad1827a0a022b33c908f87f4fe6a9007702c69493c5c224a7eaa0332cc917143f99c12e3cc02ee1e7afd5f010cd8ac8a6729fba70e1ed729372f8f337abbfa0fb1196eb5b3cc7aee6f3d53a81d9733455e2cadb02a0cb8decee3795b977f7082613611b0feddb0ae29e688ed892810e94fd09ed4bc6a89de3d39f755e224f76faa7f58539538feaacd2201918d03a261bb5f7ca5b8d9200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+534554203633205aeb5be118df270981c110dea36413310b2abd81cad7cd64bf2f3b387164ba83aff9d22d548c5596c9de53f40c96608ed0326ca4494726f3b6ef8430ab5b70f80885db95f52bdee7aeea6b875fb3cebe732979cd9df4b2761668a0a2fe14c327cfbffd5e3ceed51fc9bdc3200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e455720313037204e554d4245522033343537333531353234200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5345542032303520491e8a02f989452b4f5f60a44dc6e67842a66d95e09fbb7ec789c63472d5ed80c03f955b06d8b25dd7bf70695e450c955b8b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+010c010a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c203138200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+53455420313130206ffee34fb205afa7d2f0a063078875d549ba200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e4557203333204e554d4245522035383134343934343533363334383239383839200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5345542037382033343430383132393030200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e45572032303120535452494e47203c5fec4f91c4047573b6b1264e982bf5253d477b97d69ae715b4510992457e5d43018ee36daacaa470c9d17816742c8d39a7451d6baab7529b1727acc9a679a8cdc79c08241bba7aa2420377646329bbc23e1855b729fd3ca3d5be4556b27bce3b73a53fcd99dcd71cb8749f4dd816029f83c50c6152f18483852b30c8b627126d53e76ffc83576414e0892d2a48e12496a5576f96ec02d2ac1b198167c905d8200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0101000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+01f5000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e455720313834204e554d424552203334373232323631200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+534554203620333836393436343438200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c20313635200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e4557203233204e554d4245522034303033353931303236200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c20313038200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+534554203138342032383138353931313132200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4e45572031343320535452494e47202ee50fc46b73d3b1576898dc07d1657d22775d4d134e67e965a576580f427cf6490935ca66ec1b19fb9556f719c2653c964f7f8b45e224fe44bd0bdabb6d27dbbd84c4c472638f047680d286b0ef6619e05852ee017aa0d5cbd1bf09f2103a036d46a2797cc4375736e448d3749a3d9eea392960a7edfddd2b200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+020a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0142000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+534554203139352032383231373734393439200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+53455420323720b571200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c20313834200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+53455420323331207fe95893cc7b200a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+44454c2031313820
+            </data>
+        </write>
+
+        <delay>1000</delay>
+    </replay>
+</pov>

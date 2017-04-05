@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='ASCII' standalone='no'?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>f4293801</cbid>
+  <replay>
+    <write>
+      <data format="hex">00000000c0afc0aec0aec0afff78bfbfc0afbfbf</data>
+    </write>
+  </replay>
+</pov>

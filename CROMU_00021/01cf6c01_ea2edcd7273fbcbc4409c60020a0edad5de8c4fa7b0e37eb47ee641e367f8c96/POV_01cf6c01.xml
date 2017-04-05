@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+  <cbid>01cf6c01_01</cbid>
+  <replay>
+    <delay>1</delay>
+    <write echo="ascii">
+      <data>v</data>
+    </write>
+    <write echo="ascii">
+      <data>a</data>
+    </write>
+    <write echo="ascii">
+      <data>r</data>
+    </write>
+    <write echo="ascii">
+      <data>\x0a</data>
+    </write>
+    <read>
+      <length>1</length>
+    </read>
+    <delay>1500</delay>
+    <read>
+      <length>1</length>
+    </read>
+  </replay>
+</pov>

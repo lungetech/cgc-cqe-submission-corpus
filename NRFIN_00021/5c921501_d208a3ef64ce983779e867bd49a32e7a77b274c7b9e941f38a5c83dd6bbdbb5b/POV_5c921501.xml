@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+    <cbid>5c921501_01</cbid>
+        <replay>
+         <write>
+            <data> </data>
+        </write>
+         <write>
+            <data>\x00</data>
+        </write>
+         <write>
+            <data>\x80</data>
+        </write>
+         <write>
+            <data>\x00</data>
+        </write>
+<delay>500</delay></replay>
+</pov>

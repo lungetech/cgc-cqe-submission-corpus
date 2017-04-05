@@ -1,0 +1,225 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+    <cbid>service</cbid>
+    <replay>
+        
+        <write>
+            <data format="hex">
+440a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31e30a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+001000006b6b6b6b6bb78e6b6f6b6b6b6b406b6b7f6b6b6bb78e6b6f6b6b6b6b6b6b6b270a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4ae30a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+001000006b6b6b6b6bb78e6be16b6b6b6b6b6b6b6b6b6b6bff8a6b6f6b6b6b5d6b6b6b6b6b6bb78e6b6f6b6bfe6b506b6b6b6b6b6bb7004c4c4c4c494c4c4c4c4c4c6b6b6b6b6b676b09000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+00000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+fe000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+fe0f004c4c4c4c4c4c4c4c4c4c4c51406f6b6b546b6b6b6b6b6b6b5a6b09000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+006b6b6b440a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4ae30a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+00107f006b6b6b6b6bb78e6bc86b6b6b6b6b6b6b6b6b6b6b6b6b6b6b6b676b09000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+00000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+fe000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+fe0f008e440a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31d20a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+00100000100000006b6b6b6b6b70c88e6b6f6b6b6b6b6b6b6b6b6b6b6bb78e6b6f6b6b6b6b6b6b6b6b6f40b78e6b6f536b6b6b6b6b6b6b6b6b676b09000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+00000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+fe001079797979797979797979797979797979797979797979797979797979797979797979797979797979797979797979797979797979797979795a6b09000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+00000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+fe0f008e440a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31d20a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+00100000100093939393939393939393939393939393939393939393939393939393939393939393939393937693939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393889393939393939393939393939393939393939393939393939393939393932929292929292929292929292929292929292929292929292993939393939300019393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393b1939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939393939300006b6b6b6b6b6bc88e6b6f6b6b6b6b6b6b6b6b6b6b6bb78e6b6f6b6b6b6b4444444444444444444444444444444444444444444444444444000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+fe000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+fe0f008e440a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31d20a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+00100000104c4c4c406f6b6b546b6b6b6b6b10005a6b01000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+006b6f6b6b6b6b6b6b6b440a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4aa30a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+00107f006b6b6b6b6bb78e6bc86b6b6b6b6b6b6b6b6b6b6b6b6b6b6b6b676b09000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+006bb78e6b6f6b776b6b6b436b6b6b6bb78e6b6f6b6b6b6b6b6b6b6b6b6b676b09000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+00006b6b6b6b6b6b6bb78e6b6f6b6b6b6b6b6b6b6b6b6bb78e6b6f6b6b6b6b6b6b6b6b6b6b676b09e70900000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+fe00100000100000000b29108e0000006b6b6b6b6b6bc849636f6b6b6b6b6b6b6b6b6b6b6bb78e6b6f6b776b6b6b6b6b6b6b6bb78e6b6f6b6b6b6b6b6b6b6b6b6b676b09000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+00000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+fe00106b6b6b6b6b6b6b2e0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4ae30a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+00107f
+            </data>
+        </write>
+
+        <delay>1000</delay>
+    </replay>
+</pov>

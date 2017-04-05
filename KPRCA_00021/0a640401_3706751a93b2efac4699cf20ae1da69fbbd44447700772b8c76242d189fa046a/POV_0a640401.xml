@@ -1,0 +1,333 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+    <cbid>service</cbid>
+    <replay>
+        
+        <write>
+            <data format="hex">
+53680a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b63f15a010a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+ff7f5b310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+205b20010080000073310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+ff310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b5b00310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5aeb7fffde80f51e0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+51630031735a0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b63f15a0131ff11f15a003173310031735af0310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5a647fffdeb6f5400a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+513173710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+3100000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b003173310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+ff7f5b31e91f0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4d5b20f8008000000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b003173310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+ff7f5b310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b5b00310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+49eb7fffde80f51e313700007fff310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5aeb7fffde80f51e0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+515b0031734c0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b025b802001008000000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+3a0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4a00313100ff7f310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b5b2001008000000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b003173277f00640000277fab80100000005aeb7f3163f15a003173310031735af0310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5a647fffdeb6f5400a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+513173710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+3100000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b003173310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+ff7f5b31e91f0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4d5b20f8008000000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b003173310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+ff7f5b310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b5b22310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+49eb7fffde80f51e313700007fff310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5aeb7fffde80f51e0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+515b0031734c0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b025b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4a00008000000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+4a005b003173277f00641600277fab800131310a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+5a5a057fffde
+            </data>
+        </write>
+
+        <delay>1000</delay>
+    </replay>
+</pov>

@@ -1,0 +1,519 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+    <cbid>service</cbid>
+    <replay>
+        
+        <write>
+            <data format="hex">
+6d0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+3131714a71710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+314949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949494949710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+7171716b0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+71710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+713131313131313131313131313131000231313131310071710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+717ffffff631313131313135b10131674a71710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+71640a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31713131313131313131313131313171710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+717ffffff631e4e4e4e4e4e4e4e4e4e4c2e4e4e4e4e4e4e4e4f7e4e4e4e4e4e4e4e4e4e4e4e4e4e400e4e4e4e4e4e4e5e4400000000a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+71711a710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+3171710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+71710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31714a71710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+e4e4e4e4e4e4ffffe4e4e4e4e40100a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a73135b10031714a71710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+71640a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+6d710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+71711a710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+e8313131313171710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+717fffff1b31313131313135b10131714a71710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+6d710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+71711a710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+e8317171a7a7a7a7a7a7a7a7a7a7a7a7a7a3a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31714a71717125407171710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+71710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+7131313131313131314a313148312d31313131313131313131a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a79ea700000020a7a7a7a727a7a7a7a7a7a7aabda7a7a790a73ca7a7a7a7a7a79ba727a7a7a7a7a7a7aabda7a7a790a73ca7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a79ea7a7a7a7a7a7a7a7a727a7a7a7a7a7a7aabda7a7a7a7a7a7a7a7e7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7313171710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+717ffffff631313171710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0131714a71710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31a7a7a7a3a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7b7e4e4e4e4e4e4e4e40010e4e4e4e4e4e4e4e4cfe4e4e41000e4e4e4e4e4a7a7a7a7a3a1a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7aca7a7a7a7e4e4e4cfe4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4ffffe4f631313171710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0131714a71710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31a7a7a7a3a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7caa7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7d2d2d2d200e4e4e4e4cfa7a7a7a7a7a1a7a7a7a7e4e4e4e4e4a7a7a7a7a7a7fa0000fae4e4e4e4e4e4e4e4e4e4c2e4e4e4e4e4e447e4f7e4e4e4e4a73131a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7caa7a7a7a7a7a7a787a7a7a7a7a7a7a7a7d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2a7a7a77fa7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31714a717171a7a7a7a7a7a7a7a7a7a7a4a7a7a7a7a7a7a7a7a727a7a7a7a7a7a7aabda7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7313171710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+717ffffff631313171710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0131714a71710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31a7a7a7a3a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7b7e4e4e4e4e4e4e4e40010e4e4e4e4e4e4e4e4cfe4e4e41000e4e4e4e4cfa7a7a7a7a7a1a7a7a7a7a7a7a7a7a7a2a7a7a7a7a7a7a7a7a7a771710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+a7e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4ffffe4e4e4e4e4e4a7a7a7a7a7a7fa0000fae4e4e4e4e4e4e4e4cae4c2e4e4e4e4e4e4e4e4f7e4e4e4e4a73131a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7caa7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2e3d2a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7b7a7a7a7a7a7a7a7a7a771710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a79ea7a7a7a7a7a7a7a7a727a7a7a7a7a7a7aabda7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7313171710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+717ffffff631313171710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0131714a71710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31a7a7a7a3a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7b7e4e4e4e4e4e4e4e40010e4e4e4e4e4e4e4e4cfe4e4e41000e4e4e4e4e4a7a7a7a7a3a1a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7aca7a7a7a7e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4ffffe4f631313171710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0131714a71710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31a7a7a7a3a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7b7e4e4e4e4e4e4e4e42010e4e4e4e4e4e4e4e4cfe4e4e41000e4e4e4e4cfa7a7a7a7a7a1a7a7a7a7e4e4e4e4e4a7a7a7a7a7a7fa0000fae4e4e4e4e4e4e4e4e4e4c2e4e4e4e4e4e447e4f7e4e4e4e4a73131a7a7a7a7a7a7d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2a7a7a77fa7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31714a717171a7a7a7a7a7a7a7a7a7a7a4a7a7a7a7a7a7a7a7a727a7a7a7a7a7a7aabda7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a727a7a7a7a7a7a7aabda7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7313171710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+717ffffff631313171710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0131714a71710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+a7a7a7b7e4e4e4e4e4e4e4e40010e4e4e4e4e4e4e4e4cfe4e4e41000e4e4e4e4cfa7a7a7a7a7a1a7a7a7a7a7a7a7a7a7a2a7a7a7a7a7a7a7a7a7a7a7aca7a7a7a7e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4ffffe4e4e4e4e4e4a7a7a7a7a7a7fa0000fae4a631a7a7a7a3a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7b7e4e4e4e4e4e4e4e40010e4e4e4e4e4e4e4e4cfe4e4e41000e4e4e4e4cfa7a7a7a7a7a1a7a7a7a7a7a7a7a7a7a2a7a7a7a7a7a7a7a7a7a7a7aca7a7a7a7e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4e4ffffe4e4e4e4e4e47676767676767676767676767676767676767676767676e4e4e4e4e4e4f7e4e4e4e4a73131a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7caa7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2d2e3d2a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7b7a7a7a7a7a7a7a7a7710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+a7a7a7a7a7a7a7c4a7a7a7a7a7a7a3a7a7a7a7a7a7a7a7a7a7a7a7a7a77fa7a7a7a7a7a7b7e4e4e4e4e4e4e4e4e4e4e4ade4e4e4e400000001e4e41000e4e4e4e4e4e4e4e4e4e4e4e4e4e40a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+31e4e4e4e4e4e4e4e4e4e4c2e4e4e4e4e4e4e4e4f7e4e4e4e4e4e4e4e4e4e4e4e4e4e400e4e4e47fe4e4e5e4e4e46d710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+71711a710a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+0a
+            </data>
+        </write>
+        
+        <write>
+            <data format="hex">
+a7a7a7a7a7a7a7a7a7a7a7a7a7a7b7a7a7b5a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a7a731dcdcdcdcdcdcdc3131313131313131310a
+            </data>
+        </write>
+
+        <delay>1000</delay>
+    </replay>
+</pov>

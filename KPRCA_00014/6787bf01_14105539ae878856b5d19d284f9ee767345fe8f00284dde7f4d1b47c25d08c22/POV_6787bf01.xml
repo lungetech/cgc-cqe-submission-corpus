@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE pov SYSTEM "/usr/share/cgc-docs/replay.dtd">
+<pov>
+	<cbid>6787bf01_01</cbid>
+	<replay>
+	<write><data format="hex">0804921f0804921f0804921f0804921f0804921f0804921f0804921f0804921f0804921f0804921f0804921f0804921f0804921f0804921f0804921f0804921f0804921f</data></write><read><length>1</length></read>
+	</replay>
+</pov>
